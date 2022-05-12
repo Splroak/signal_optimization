@@ -1,0 +1,4809 @@
+========================= STARTING ==========================
+Parameters
+Num Of Sensors 32
+System wake up interval 1
+System sleep interval 2
+Num iteration 100
+System Wake Up 05/11/2022, 23:49:32
+Send success T9, Received time: 05/11/2022, 23:49:32.713 Delay time: 0.0
+Send success T1, Received time: 05/11/2022, 23:49:33.224 Delay time: 0.0
+System go sleep
+Send delay T20 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/11/2022, 23:49:35
+Send success T7, Received time: 05/11/2022, 23:49:35.789 Delay time: 0.0
+System go sleep
+Send delay T26 due server sleep
+System Wake Up 05/11/2022, 23:49:38
+Send success T5, Received time: 05/11/2022, 23:49:38.858 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/11/2022, 23:49:41
+System go sleep
+Send delay T4 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/11/2022, 23:49:44
+System go sleep
+Send delay T17 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/11/2022, 23:49:47
+Send success T13, Received time: 05/11/2022, 23:49:48.036 Delay time: 0.0
+Send success T25, Received time: 05/11/2022, 23:49:48.551 Delay time: 0.0
+System go sleep
+System Wake Up 05/11/2022, 23:49:50
+System go sleep
+System Wake Up 05/11/2022, 23:49:53
+Send success T14, Received time: 05/11/2022, 23:49:54.173 Delay time: 0.0
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:49:56
+Send success T10, Received time: 05/11/2022, 23:49:57.236 Delay time: 0.0
+System go sleep
+Send delay T30 due server sleep
+System Wake Up 05/11/2022, 23:49:59
+System go sleep
+Send delay T22 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/11/2022, 23:50:02
+System go sleep
+System Wake Up 05/11/2022, 23:50:05
+System go sleep
+Send delay T1 due server sleep
+Send delay T8 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:50:08
+System go sleep
+System Wake Up 05/11/2022, 23:50:11
+Send success T23, Received time: 05/11/2022, 23:50:12.572 Delay time: 37.29791
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/11/2022, 23:50:14
+System go sleep
+Send delay T16 due server sleep
+Send delay T5 due server sleep
+Send delay T18 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/11/2022, 23:50:17
+Send success T12, Received time: 05/11/2022, 23:50:18.196 Delay time: 0.0
+Send success T24, Received time: 05/11/2022, 23:50:18.703 Delay time: 0.0
+System go sleep
+Send delay T19 due server sleep
+Send delay T27 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/11/2022, 23:50:20
+Send success T18, Received time: 05/11/2022, 23:50:21.764 Delay time: 37.805
+System go sleep
+Send delay T4 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/11/2022, 23:50:23
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:50:26
+Send success T20, Received time: 05/11/2022, 23:50:27.382 Delay time: 53.13047
+System go sleep
+System Wake Up 05/11/2022, 23:50:29
+Send success T29, Received time: 05/11/2022, 23:50:29.931 Delay time: 50.0515
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/11/2022, 23:50:32
+Send success T2, Received time: 05/11/2022, 23:50:33.511 Delay time: 0.0
+System go sleep
+Send delay T11 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/11/2022, 23:50:35
+Send success T3, Received time: 05/11/2022, 23:50:36.074 Delay time: 40.37218
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/11/2022, 23:50:38
+Send success T7, Received time: 05/11/2022, 23:50:39.654 Delay time: 0.0
+System go sleep
+Send delay T11 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:50:41
+Send success T0, Received time: 05/11/2022, 23:50:42.204 Delay time: 39.85424
+Send success T17, Received time: 05/11/2022, 23:50:42.717 Delay time: 56.7128
+System go sleep
+System Wake Up 05/11/2022, 23:50:44
+System go sleep
+System Wake Up 05/11/2022, 23:50:47
+System go sleep
+System Wake Up 05/11/2022, 23:50:50
+Send success T8, Received time: 05/11/2022, 23:50:51.919 Delay time: 44.45869
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/11/2022, 23:50:53
+System go sleep
+Send delay T16 due server sleep
+System Wake Up 05/11/2022, 23:50:56
+Send success T11, Received time: 05/11/2022, 23:50:57.549 Delay time: 70.52301
+System go sleep
+Send delay T18 due server sleep
+Send delay T22 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/11/2022, 23:50:59
+System go sleep
+Send delay T17 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:51:03
+Send success T22, Received time: 05/11/2022, 23:51:03.155 Delay time: 61.82769
+Send success T5, Received time: 05/11/2022, 23:51:03.665 Delay time: 46.99765
+System go sleep
+Send delay T10 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/11/2022, 23:51:06
+System go sleep
+System Wake Up 05/11/2022, 23:51:09
+Send success T25, Received time: 05/11/2022, 23:51:09.292 Delay time: 0.0
+System go sleep
+Send delay T27 due server sleep
+Send delay T21 due server sleep
+Send delay T26 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/11/2022, 23:51:12
+Send success T28, Received time: 05/11/2022, 23:51:12.365 Delay time: 91.45951
+System go sleep
+Send delay T27 due server sleep
+Send delay T26 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/11/2022, 23:51:15
+System go sleep
+Send delay T15 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/11/2022, 23:51:18
+Send success T8, Received time: 05/11/2022, 23:51:18.496 Delay time: 0.0
+Send success T19, Received time: 05/11/2022, 23:51:19.008 Delay time: 59.79721
+System go sleep
+Send delay T12 due server sleep
+Send delay T5 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:51:21
+Send success T22, Received time: 05/11/2022, 23:51:21.570 Delay time: 0.0
+System go sleep
+Send success T31, Received time: 05/11/2022, 23:51:22.083 Delay time: 68.49279
+Send delay T27 due server sleep
+System Wake Up 05/11/2022, 23:51:24
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/11/2022, 23:51:27
+System go sleep
+System Wake Up 05/11/2022, 23:51:30
+Send success T9, Received time: 05/11/2022, 23:51:30.756 Delay time: 36.78729
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/11/2022, 23:51:33
+Send success T23, Received time: 05/11/2022, 23:51:33.310 Delay time: 72.56422
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/11/2022, 23:51:36
+System go sleep
+Send delay T1 due server sleep
+Send delay T23 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/11/2022, 23:51:39
+Send success T27, Received time: 05/11/2022, 23:51:39.955 Delay time: 79.72193
+System go sleep
+Send delay T1 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/11/2022, 23:51:42
+Send success T21, Received time: 05/11/2022, 23:51:43.026 Delay time: 95.05169
+System go sleep
+Send delay T11 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/11/2022, 23:51:45
+System go sleep
+Send delay T3 due server sleep
+Send delay T30 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/11/2022, 23:51:48
+Send success T15, Received time: 05/11/2022, 23:51:48.641 Delay time: 85.34402
+System go sleep
+Send delay T3 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:51:51
+Send success T25, Received time: 05/11/2022, 23:51:51.199 Delay time: 0.0
+Send success T11, Received time: 05/11/2022, 23:51:51.708 Delay time: 47.01626
+System go sleep
+Send delay T9 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/11/2022, 23:51:54
+System go sleep
+Send delay T11 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/11/2022, 23:51:57
+System go sleep
+Send delay T5 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/11/2022, 23:52:00
+Send success T6, Received time: 05/11/2022, 23:52:00.417 Delay time: 102.73103
+System go sleep
+System Wake Up 05/11/2022, 23:52:03
+System go sleep
+Send delay T20 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/11/2022, 23:52:06
+Send success T26, Received time: 05/11/2022, 23:52:07.073 Delay time: 149.23801
+System go sleep
+Send delay T18 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/11/2022, 23:52:09
+System go sleep
+Send delay T23 due server sleep
+Send delay T12 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:52:12
+Send success T28, Received time: 05/11/2022, 23:52:13.210 Delay time: 55.22424
+System go sleep
+System Wake Up 05/11/2022, 23:52:15
+Send success T3, Received time: 05/11/2022, 23:52:15.258 Delay time: 73.1235
+Send success T24, Received time: 05/11/2022, 23:52:15.770 Delay time: 54.71093
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/11/2022, 23:52:18
+Send success T6, Received time: 05/11/2022, 23:52:18.324 Delay time: 0.0
+Send success T0, Received time: 05/11/2022, 23:52:18.836 Delay time: 0.0
+System go sleep
+Send delay T13 due server sleep
+Send delay T22 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/11/2022, 23:52:21
+Send success T5, Received time: 05/11/2022, 23:52:21.393 Delay time: 60.84946
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:52:24
+Send success T10, Received time: 05/11/2022, 23:52:24.975 Delay time: 80.79821
+System go sleep
+Send delay T16 due server sleep
+Send delay T7 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/11/2022, 23:52:27
+Send success T8, Received time: 05/11/2022, 23:52:28.026 Delay time: 0.0
+System go sleep
+Send delay T19 due server sleep
+Send delay T1 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/11/2022, 23:52:30
+Send success T26, Received time: 05/11/2022, 23:52:31.102 Delay time: 0.0
+System go sleep
+Send delay T25 due server sleep
+Send delay T27 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:52:33
+Send success T19, Received time: 05/11/2022, 23:52:33.661 Delay time: 45.53159
+System go sleep
+Send delay T11 due server sleep
+System Wake Up 05/11/2022, 23:52:36
+Send success T31, Received time: 05/11/2022, 23:52:36.727 Delay time: 0.0
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:52:39
+Send success T23, Received time: 05/11/2022, 23:52:39.795 Delay time: 61.8877
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/11/2022, 23:52:42
+Send success T27, Received time: 05/11/2022, 23:52:42.852 Delay time: 46.02128
+System go sleep
+Send delay T27 due server sleep
+Send delay T15 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/11/2022, 23:52:45
+System go sleep
+Send delay T16 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/11/2022, 23:52:48
+Send success T9, Received time: 05/11/2022, 23:52:48.986 Delay time: 56.24984
+System go sleep
+Send delay T28 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/11/2022, 23:52:51
+Send success T4, Received time: 05/11/2022, 23:52:52.054 Delay time: 188.59476
+System go sleep
+Send delay T15 due server sleep
+Send delay T19 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:52:54
+Send success T11, Received time: 05/11/2022, 23:52:54.610 Delay time: 58.28921
+System go sleep
+Send delay T9 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/11/2022, 23:52:57
+Send success T29, Received time: 05/11/2022, 23:52:57.674 Delay time: 146.20531
+System go sleep
+System Wake Up 05/11/2022, 23:53:00
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/11/2022, 23:53:03
+System go sleep
+Send delay T25 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:53:06
+Send success T25, Received time: 05/11/2022, 23:53:06.885 Delay time: 35.26972
+System go sleep
+Send delay T18 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/11/2022, 23:53:09
+Send success T16, Received time: 05/11/2022, 23:53:09.440 Delay time: 173.2881
+System go sleep
+Send delay T20 due server sleep
+Send delay T11 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:53:12
+Send success T30, Received time: 05/11/2022, 23:53:12.510 Delay time: 193.74201
+System go sleep
+Send delay T1 due server sleep
+Send delay T23 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:53:15
+Send success T13, Received time: 05/11/2022, 23:53:15.581 Delay time: 169.73596
+System go sleep
+Send delay T2 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/11/2022, 23:53:18
+Send success T30, Received time: 05/11/2022, 23:53:18.660 Delay time: 0.0
+Send success T26, Received time: 05/11/2022, 23:53:19.170 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:53:21
+System go sleep
+System Wake Up 05/11/2022, 23:53:24
+System go sleep
+Send delay T8 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/11/2022, 23:53:27
+Send success T5, Received time: 05/11/2022, 23:53:27.872 Delay time: 0.0
+Send success T7, Received time: 05/11/2022, 23:53:28.383 Delay time: 62.39005
+System go sleep
+System Wake Up 05/11/2022, 23:53:30
+Send success T4, Received time: 05/11/2022, 23:53:30.936 Delay time: 0.0
+System go sleep
+Send delay T24 due server sleep
+Send delay T17 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:53:33
+Send success T22, Received time: 05/11/2022, 23:53:34.008 Delay time: 74.15052
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/11/2022, 23:53:36
+Send success T31, Received time: 05/11/2022, 23:53:37.086 Delay time: 0.0
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:53:39
+Send success T3, Received time: 05/11/2022, 23:53:39.646 Delay time: 66.49404
+Send success T14, Received time: 05/11/2022, 23:53:40.157 Delay time: 182.54867
+System go sleep
+Send delay T6 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/11/2022, 23:53:42
+Send success T12, Received time: 05/11/2022, 23:53:43.228 Delay time: 143.71135
+System go sleep
+Send delay T25 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/11/2022, 23:53:45
+System go sleep
+Send delay T17 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:53:48
+Send success T23, Received time: 05/11/2022, 23:53:49.371 Delay time: 35.32751
+System go sleep
+Send delay T2 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/11/2022, 23:53:51
+Send success T27, Received time: 05/11/2022, 23:53:51.924 Delay time: 68.56056
+System go sleep
+Send delay T30 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:53:54
+System go sleep
+Send delay T26 due server sleep
+Send delay T27 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/11/2022, 23:53:57
+Send success T18, Received time: 05/11/2022, 23:53:57.551 Delay time: 178.99056
+System go sleep
+Send delay T17 due server sleep
+System Wake Up 05/11/2022, 23:54:00
+Send success T2, Received time: 05/11/2022, 23:54:00.616 Delay time: 43.49827
+Send success T15, Received time: 05/11/2022, 23:54:01.128 Delay time: 127.87914
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/11/2022, 23:54:03
+Send success T15, Received time: 05/11/2022, 23:54:03.688 Delay time: 0.0
+Send success T12, Received time: 05/11/2022, 23:54:04.204 Delay time: 0.0
+System go sleep
+Send delay T10 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:54:06
+Send success T11, Received time: 05/11/2022, 23:54:06.762 Delay time: 55.27614
+System go sleep
+Send delay T23 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/11/2022, 23:54:09
+Send success T19, Received time: 05/11/2022, 23:54:09.816 Delay time: 76.22794
+Send success T31, Received time: 05/11/2022, 23:54:10.330 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+System Wake Up 05/11/2022, 23:54:12
+Send success T13, Received time: 05/11/2022, 23:54:12.888 Delay time: 39.90409
+System go sleep
+System Wake Up 05/11/2022, 23:54:15
+Send success T7, Received time: 05/11/2022, 23:54:16.463 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/11/2022, 23:54:18
+System go sleep
+Send delay T5 due server sleep
+System Wake Up 05/11/2022, 23:54:21
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:54:24
+Send success T28, Received time: 05/11/2022, 23:54:24.639 Delay time: 95.14411
+Send success T30, Received time: 05/11/2022, 23:54:25.151 Delay time: 32.20281
+System go sleep
+Send delay T22 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:54:27
+Send success T14, Received time: 05/11/2022, 23:54:28.222 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+Send delay T1 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/11/2022, 23:54:30
+Send success T0, Received time: 05/11/2022, 23:54:30.779 Delay time: 81.8488
+Send success T19, Received time: 05/11/2022, 23:54:31.290 Delay time: 0.0
+System go sleep
+Send delay T13 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/11/2022, 23:54:33
+Send success T1, Received time: 05/11/2022, 23:54:33.850 Delay time: 266.90249
+System go sleep
+Send delay T21 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:54:36
+Send success T12, Received time: 05/11/2022, 23:54:36.922 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/11/2022, 23:54:39
+System go sleep
+Send delay T27 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/11/2022, 23:54:42
+Send success T6, Received time: 05/11/2022, 23:54:43.569 Delay time: 101.2935
+System go sleep
+Send delay T17 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/11/2022, 23:54:45
+Send success T22, Received time: 05/11/2022, 23:54:46.125 Delay time: 60.84611
+System go sleep
+Send delay T15 due server sleep
+System Wake Up 05/11/2022, 23:54:48
+Send success T28, Received time: 05/11/2022, 23:54:48.670 Delay time: 0.0
+Send success T1, Received time: 05/11/2022, 23:54:49.183 Delay time: 0.0
+System go sleep
+Send delay T4 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/11/2022, 23:54:51
+System go sleep
+Send delay T8 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:54:54
+System go sleep
+Send delay T2 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/11/2022, 23:54:57
+Send success T31, Received time: 05/11/2022, 23:54:57.856 Delay time: 0.0
+Send success T10, Received time: 05/11/2022, 23:54:58.363 Delay time: 124.26181
+System go sleep
+Send delay T27 due server sleep
+System Wake Up 05/11/2022, 23:55:00
+Send success T5, Received time: 05/11/2022, 23:55:00.911 Delay time: 40.36527
+Send success T7, Received time: 05/11/2022, 23:55:01.425 Delay time: 0.0
+System go sleep
+Send delay T14 due server sleep
+Send delay T10 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/11/2022, 23:55:03
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:55:06
+Send success T26, Received time: 05/11/2022, 23:55:07.552 Delay time: 71.53417
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:55:09
+Send success T18, Received time: 05/11/2022, 23:55:10.109 Delay time: 66.93141
+Send success T16, Received time: 05/11/2022, 23:55:10.620 Delay time: 40.34887
+System go sleep
+System Wake Up 05/11/2022, 23:55:12
+System go sleep
+System Wake Up 05/11/2022, 23:55:15
+Send success T24, Received time: 05/11/2022, 23:55:15.734 Delay time: 156.96112
+System go sleep
+Send delay T8 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/11/2022, 23:55:18
+Send success T8, Received time: 05/11/2022, 23:55:18.797 Delay time: 112.9702
+System go sleep
+Send delay T15 due server sleep
+Send delay T2 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/11/2022, 23:55:21
+Send success T27, Received time: 05/11/2022, 23:55:21.860 Delay time: 85.32979
+Send success T28, Received time: 05/11/2022, 23:55:22.370 Delay time: 0.0
+System go sleep
+Send delay T27 due server sleep
+Send delay T18 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/11/2022, 23:55:24
+Send success T12, Received time: 05/11/2022, 23:55:24.921 Delay time: 0.0
+Send success T1, Received time: 05/11/2022, 23:55:25.430 Delay time: 0.0
+System go sleep
+Send delay T3 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:55:27
+Send success T25, Received time: 05/11/2022, 23:55:27.985 Delay time: 103.22096
+System go sleep
+System Wake Up 05/11/2022, 23:55:30
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/11/2022, 23:55:33
+Send success T17, Received time: 05/11/2022, 23:55:34.108 Delay time: 272.48059
+System go sleep
+Send delay T26 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/11/2022, 23:55:36
+Send success T29, Received time: 05/11/2022, 23:55:37.179 Delay time: 114.9728
+Send success T7, Received time: 05/11/2022, 23:55:37.691 Delay time: 0.0
+System go sleep
+Send delay T13 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:55:39
+Send success T4, Received time: 05/11/2022, 23:55:40.750 Delay time: 51.05921
+System go sleep
+Send delay T15 due server sleep
+Send delay T11 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/11/2022, 23:55:42
+Send success T6, Received time: 05/11/2022, 23:55:43.289 Delay time: 39.81819
+System go sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:55:45
+Send success T9, Received time: 05/11/2022, 23:55:45.844 Delay time: 169.70441
+System go sleep
+Send delay T20 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:55:48
+Send success T21, Received time: 05/11/2022, 23:55:48.909 Delay time: 205.4661
+Send success T31, Received time: 05/11/2022, 23:55:49.420 Delay time: 0.0
+System go sleep
+Send delay T11 due server sleep
+Send delay T10 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/11/2022, 23:55:51
+Send success T25, Received time: 05/11/2022, 23:55:52.492 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+Send delay T2 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:55:54
+Send success T0, Received time: 05/11/2022, 23:55:55.565 Delay time: 0.0
+System go sleep
+System Wake Up 05/11/2022, 23:55:57
+Send success T5, Received time: 05/11/2022, 23:55:58.114 Delay time: 0.0
+System go sleep
+Send delay T10 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/11/2022, 23:56:00
+System go sleep
+Send delay T11 due server sleep
+Send delay T1 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/11/2022, 23:56:03
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:56:06
+Send success T2, Received time: 05/11/2022, 23:56:07.317 Delay time: 119.02613
+Send success T2, Received time: 05/11/2022, 23:56:07.827 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+Send delay T15 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/11/2022, 23:56:09
+System go sleep
+Send delay T15 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/11/2022, 23:56:12
+Send success T20, Received time: 05/11/2022, 23:56:12.932 Delay time: 331.73904
+System go sleep
+Send delay T22 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/11/2022, 23:56:15
+Send success T20, Received time: 05/11/2022, 23:56:15.990 Delay time: 0.0
+Send success T15, Received time: 05/11/2022, 23:56:16.501 Delay time: 88.85187
+System go sleep
+Send delay T3 due server sleep
+Send delay T10 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/11/2022, 23:56:18
+System go sleep
+Send delay T16 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:56:21
+Send success T22, Received time: 05/11/2022, 23:56:22.122 Delay time: 60.77244
+System go sleep
+Send delay T17 due server sleep
+System Wake Up 05/11/2022, 23:56:24
+Send success T25, Received time: 05/11/2022, 23:56:25.700 Delay time: 0.0
+System go sleep
+Send delay T22 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/11/2022, 23:56:27
+Send success T12, Received time: 05/11/2022, 23:56:28.264 Delay time: 0.0
+Send success T3, Received time: 05/11/2022, 23:56:28.775 Delay time: 62.32545
+System go sleep
+System Wake Up 05/11/2022, 23:56:30
+Send success T4, Received time: 05/11/2022, 23:56:31.837 Delay time: 0.0
+System go sleep
+Send delay T14 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/11/2022, 23:56:33
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/11/2022, 23:56:36
+Send success T1, Received time: 05/11/2022, 23:56:37.459 Delay time: 34.74588
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:56:39
+Send success T28, Received time: 05/11/2022, 23:56:40.007 Delay time: 40.35653
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/11/2022, 23:56:42
+Send success T10, Received time: 05/11/2022, 23:56:43.070 Delay time: 100.1128
+Send success T2, Received time: 05/11/2022, 23:56:43.583 Delay time: 0.0
+System go sleep
+Send delay T5 due server sleep
+System Wake Up 05/11/2022, 23:56:46
+System go sleep
+Send delay T15 due server sleep
+Send delay T28 due server sleep
+Send delay T3 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/11/2022, 23:56:49
+Send success T14, Received time: 05/11/2022, 23:56:49.712 Delay time: 107.78075
+System go sleep
+System Wake Up 05/11/2022, 23:56:52
+Send success T13, Received time: 05/11/2022, 23:56:52.257 Delay time: 140.45351
+System go sleep
+Send delay T24 due server sleep
+Send delay T0 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:56:55
+System go sleep
+System Wake Up 05/11/2022, 23:56:58
+Send success T1, Received time: 05/11/2022, 23:56:58.389 Delay time: 0.0
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:57:01
+System go sleep
+System Wake Up 05/11/2022, 23:57:04
+Send success T16, Received time: 05/11/2022, 23:57:04.524 Delay time: 106.23607
+System go sleep
+Send delay T25 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/11/2022, 23:57:07
+System go sleep
+Send delay T11 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:57:10
+Send success T9, Received time: 05/11/2022, 23:57:10.651 Delay time: 0.0
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/11/2022, 23:57:13
+System go sleep
+Send delay T6 due server sleep
+Send delay T17 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/11/2022, 23:57:16
+Send success T17, Received time: 05/11/2022, 23:57:16.789 Delay time: 53.13583
+System go sleep
+Send delay T11 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/11/2022, 23:57:19
+System go sleep
+Send delay T7 due server sleep
+Send delay T5 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/11/2022, 23:57:22
+System go sleep
+Send delay T12 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/11/2022, 23:57:25
+Send success T29, Received time: 05/11/2022, 23:57:25.490 Delay time: 48.54186
+System go sleep
+Send delay T21 due server sleep
+Send delay T24 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/11/2022, 23:57:28
+Send success T18, Received time: 05/11/2022, 23:57:28.544 Delay time: 125.15003
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:57:31
+Send success T5, Received time: 05/11/2022, 23:57:31.611 Delay time: 46.49423
+System go sleep
+System Wake Up 05/11/2022, 23:57:34
+Send success T5, Received time: 05/11/2022, 23:57:34.682 Delay time: 0.0
+System go sleep
+Send delay T24 due server sleep
+Send delay T0 due server sleep
+Send delay T28 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:57:37
+System go sleep
+Send delay T28 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:57:40
+Send success T14, Received time: 05/11/2022, 23:57:40.307 Delay time: 0.0
+Send success T13, Received time: 05/11/2022, 23:57:40.818 Delay time: 40.89132
+System go sleep
+Send delay T21 due server sleep
+Send delay T10 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/11/2022, 23:57:43
+Send success T11, Received time: 05/11/2022, 23:57:43.385 Delay time: 166.04343
+Send success T25, Received time: 05/11/2022, 23:57:43.897 Delay time: 38.34935
+System go sleep
+Send delay T21 due server sleep
+Send delay T10 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/11/2022, 23:57:46
+Send success T20, Received time: 05/11/2022, 23:57:46.461 Delay time: 37.33877
+System go sleep
+Send delay T31 due server sleep
+Send delay T28 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:57:49
+Send success T18, Received time: 05/11/2022, 23:57:49.531 Delay time: 0.0
+Send success T0, Received time: 05/11/2022, 23:57:50.042 Delay time: 56.25509
+System go sleep
+Send delay T16 due server sleep
+Send delay T23 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:57:52
+Send success T15, Received time: 05/11/2022, 23:57:52.596 Delay time: 65.43892
+System go sleep
+Send delay T6 due server sleep
+Send delay T13 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/11/2022, 23:57:55
+Send success T3, Received time: 05/11/2022, 23:57:55.666 Delay time: 67.48954
+Send success T15, Received time: 05/11/2022, 23:57:56.178 Delay time: 0.0
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:57:58
+Send success T27, Received time: 05/11/2022, 23:57:58.742 Delay time: 155.86224
+System go sleep
+Send delay T4 due server sleep
+Send delay T7 due server sleep
+Send delay T26 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/11/2022, 23:58:01
+Send success T29, Received time: 05/11/2022, 23:58:01.300 Delay time: 0.0
+Send success T23, Received time: 05/11/2022, 23:58:01.808 Delay time: 234.02531
+System go sleep
+Send delay T8 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/11/2022, 23:58:04
+Send success T10, Received time: 05/11/2022, 23:58:04.874 Delay time: 70.57738
+System go sleep
+Send delay T6 due server sleep
+Send delay T2 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/11/2022, 23:58:07
+Send success T6, Received time: 05/11/2022, 23:58:07.948 Delay time: 136.98927
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/11/2022, 23:58:10
+System go sleep
+Send delay T3 due server sleep
+Send delay T17 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:58:13
+Send success T24, Received time: 05/11/2022, 23:58:13.561 Delay time: 145.16147
+Send success T30, Received time: 05/11/2022, 23:58:14.074 Delay time: 208.46031
+System go sleep
+Send delay T4 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/11/2022, 23:58:16
+System go sleep
+Send delay T30 due server sleep
+System Wake Up 05/11/2022, 23:58:19
+System go sleep
+System Wake Up 05/11/2022, 23:58:22
+Send success T24, Received time: 05/11/2022, 23:58:22.777 Delay time: 0.0
+Send success T18, Received time: 05/11/2022, 23:58:23.287 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:58:25
+Send success T14, Received time: 05/11/2022, 23:58:25.846 Delay time: 0.0
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/11/2022, 23:58:28
+System go sleep
+Send delay T5 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/11/2022, 23:58:31
+Send success T19, Received time: 05/11/2022, 23:58:31.471 Delay time: 142.10653
+Send success T17, Received time: 05/11/2022, 23:58:31.985 Delay time: 70.07727
+System go sleep
+Send delay T7 due server sleep
+System Wake Up 05/11/2022, 23:58:34
+System go sleep
+System Wake Up 05/11/2022, 23:58:37
+System go sleep
+Send delay T27 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:58:40
+Send success T31, Received time: 05/11/2022, 23:58:41.209 Delay time: 112.51896
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/11/2022, 23:58:43
+Send success T23, Received time: 05/11/2022, 23:58:43.766 Delay time: 39.91419
+Send success T11, Received time: 05/11/2022, 23:58:44.276 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/11/2022, 23:58:46
+Send success T13, Received time: 05/11/2022, 23:58:46.833 Delay time: 52.19075
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/11/2022, 23:58:49
+System go sleep
+Send delay T0 due server sleep
+Send delay T16 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/11/2022, 23:58:52
+Send success T7, Received time: 05/11/2022, 23:58:52.469 Delay time: 145.22949
+Send success T7, Received time: 05/11/2022, 23:58:52.979 Delay time: 0.0
+System go sleep
+Send delay T16 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/11/2022, 23:58:55
+Send success T29, Received time: 05/11/2022, 23:58:55.538 Delay time: 0.0
+Send success T9, Received time: 05/11/2022, 23:58:56.051 Delay time: 49.12922
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/11/2022, 23:58:58
+Send success T22, Received time: 05/11/2022, 23:58:59.113 Delay time: 152.89871
+System go sleep
+Send delay T14 due server sleep
+Send delay T18 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/11/2022, 23:59:01
+Send success T30, Received time: 05/11/2022, 23:59:01.670 Delay time: 42.99059
+Send success T30, Received time: 05/11/2022, 23:59:02.184 Delay time: 0.0
+System go sleep
+Send delay T2 due server sleep
+Send delay T1 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/11/2022, 23:59:04
+Send success T4, Received time: 05/11/2022, 23:59:04.729 Delay time: 113.56381
+System go sleep
+Send delay T19 due server sleep
+Send delay T10 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/11/2022, 23:59:07
+Send success T25, Received time: 05/11/2022, 23:59:07.803 Delay time: 67.01489
+Send success T12, Received time: 05/11/2022, 23:59:08.313 Delay time: 103.84739
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/11/2022, 23:59:10
+Send success T1, Received time: 05/11/2022, 23:59:10.879 Delay time: 88.00626
+System go sleep
+Send delay T15 due server sleep
+Send delay T17 due server sleep
+Send delay T2 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/11/2022, 23:59:13
+Send success T12, Received time: 05/11/2022, 23:59:13.952 Delay time: 0.0
+Send success T13, Received time: 05/11/2022, 23:59:14.459 Delay time: 0.0
+System go sleep
+System Wake Up 05/11/2022, 23:59:16
+Send success T31, Received time: 05/11/2022, 23:59:16.507 Delay time: 0.0
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/11/2022, 23:59:19
+System go sleep
+Send delay T27 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/11/2022, 23:59:22
+Send success T21, Received time: 05/11/2022, 23:59:23.160 Delay time: 210.15524
+System go sleep
+Send delay T5 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/11/2022, 23:59:25
+Send success T2, Received time: 05/11/2022, 23:59:26.225 Delay time: 130.45607
+System go sleep
+Send delay T25 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/11/2022, 23:59:28
+System go sleep
+Send delay T7 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/11/2022, 23:59:31
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/11/2022, 23:59:34
+Send success T3, Received time: 05/11/2022, 23:59:35.438 Delay time: 83.90908
+System go sleep
+Send delay T11 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/11/2022, 23:59:37
+System go sleep
+Send delay T10 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/11/2022, 23:59:40
+Send success T23, Received time: 05/11/2022, 23:59:41.056 Delay time: 52.16967
+System go sleep
+Send delay T28 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/11/2022, 23:59:43
+Send success T26, Received time: 05/11/2022, 23:59:44.115 Delay time: 248.98017
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/11/2022, 23:59:46
+System go sleep
+System Wake Up 05/11/2022, 23:59:49
+Send success T24, Received time: 05/11/2022, 23:59:50.255 Delay time: 46.03691
+System go sleep
+Send delay T15 due server sleep
+Send delay T8 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/11/2022, 23:59:52
+System go sleep
+System Wake Up 05/11/2022, 23:59:55
+Send success T26, Received time: 05/11/2022, 23:59:56.398 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+Send delay T6 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/11/2022, 23:59:58
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:00:01
+Send success T18, Received time: 05/12/2022, 00:00:02.516 Delay time: 61.86535
+System go sleep
+Send delay T7 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:00:04
+Send success T20, Received time: 05/12/2022, 00:00:05.587 Delay time: 34.23506
+System go sleep
+Send delay T30 due server sleep
+Send delay T14 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:00:07
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:00:10
+System go sleep
+Send delay T3 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:00:13
+Send success T6, Received time: 05/12/2022, 00:00:14.260 Delay time: 92.54039
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:00:16
+System go sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:00:19
+System go sleep
+Send delay T7 due server sleep
+Send delay T19 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:00:22
+Send success T6, Received time: 05/12/2022, 00:00:22.952 Delay time: 0.0
+Send success T27, Received time: 05/12/2022, 00:00:23.464 Delay time: 104.81412
+System go sleep
+Send delay T22 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:00:25
+Send success T14, Received time: 05/12/2022, 00:00:26.016 Delay time: 85.87566
+Send success T27, Received time: 05/12/2022, 00:00:26.528 Delay time: 0.0
+System go sleep
+Send delay T20 due server sleep
+Send delay T0 due server sleep
+Send delay T2 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:00:28
+System go sleep
+Send delay T19 due server sleep
+Send delay T17 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:00:31
+System go sleep
+Send delay T15 due server sleep
+Send delay T22 due server sleep
+Send delay T16 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:00:34
+Send success T10, Received time: 05/12/2022, 00:00:35.732 Delay time: 142.68004
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:00:37
+System go sleep
+Send delay T10 due server sleep
+Send delay T22 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:00:40
+Send success T22, Received time: 05/12/2022, 00:00:40.858 Delay time: 83.32786
+Send success T5, Received time: 05/12/2022, 00:00:41.367 Delay time: 131.43106
+System go sleep
+Send delay T11 due server sleep
+Send delay T0 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:00:43
+Send success T15, Received time: 05/12/2022, 00:00:43.925 Delay time: 92.02383
+Send success T24, Received time: 05/12/2022, 00:00:44.433 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+Send delay T19 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:00:46
+Send success T12, Received time: 05/12/2022, 00:00:46.996 Delay time: 42.43427
+Send success T23, Received time: 05/12/2022, 00:00:47.509 Delay time: 49.06223
+System go sleep
+Send delay T11 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:00:49
+System go sleep
+Send delay T9 due server sleep
+Send delay T19 due server sleep
+Send delay T26 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:00:52
+Send success T9, Received time: 05/12/2022, 00:00:53.137 Delay time: 91.00267
+Send success T29, Received time: 05/12/2022, 00:00:53.650 Delay time: 80.25904
+System go sleep
+Send delay T29 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:00:55
+Send success T2, Received time: 05/12/2022, 00:00:56.205 Delay time: 70.04073
+Send success T3, Received time: 05/12/2022, 00:00:56.719 Delay time: 43.97902
+System go sleep
+Send delay T21 due server sleep
+Send delay T18 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:00:58
+Send success T11, Received time: 05/12/2022, 00:00:59.261 Delay time: 82.80166
+System go sleep
+Send delay T21 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:01:01
+Send success T8, Received time: 05/12/2022, 00:01:01.821 Delay time: 260.79323
+Send success T5, Received time: 05/12/2022, 00:01:02.334 Delay time: 0.0
+System go sleep
+Send delay T3 due server sleep
+Send delay T25 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:01:04
+Send success T1, Received time: 05/12/2022, 00:01:04.891 Delay time: 0.0
+Send success T4, Received time: 05/12/2022, 00:01:05.402 Delay time: 116.05962
+System go sleep
+Send delay T19 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:01:07
+Send success T20, Received time: 05/12/2022, 00:01:07.961 Delay time: 40.92265
+Send success T27, Received time: 05/12/2022, 00:01:08.474 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:01:10
+Send success T19, Received time: 05/12/2022, 00:01:11.032 Delay time: 124.76467
+Send success T15, Received time: 05/12/2022, 00:01:11.542 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:01:13
+System go sleep
+Send delay T30 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:01:16
+Send success T16, Received time: 05/12/2022, 00:01:17.678 Delay time: 206.61827
+System go sleep
+Send delay T31 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:01:19
+Send success T21, Received time: 05/12/2022, 00:01:20.239 Delay time: 103.26958
+System go sleep
+Send delay T12 due server sleep
+Send delay T13 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:01:22
+Send success T16, Received time: 05/12/2022, 00:01:23.307 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:01:25
+System go sleep
+Send delay T30 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:01:28
+Send success T10, Received time: 05/12/2022, 00:01:28.947 Delay time: 50.13858
+System go sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:01:31
+System go sleep
+Send delay T18 due server sleep
+Send delay T29 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:01:34
+Send success T20, Received time: 05/12/2022, 00:01:35.087 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:01:37
+Send success T13, Received time: 05/12/2022, 00:01:38.156 Delay time: 105.8517
+System go sleep
+Send delay T25 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:01:40
+System go sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:01:43
+Send success T5, Received time: 05/12/2022, 00:01:44.307 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:01:46
+System go sleep
+Send delay T25 due server sleep
+Send delay T18 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:01:49
+Send success T0, Received time: 05/12/2022, 00:01:50.438 Delay time: 180.01341
+System go sleep
+Send delay T18 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:01:52
+Send success T4, Received time: 05/12/2022, 00:01:53.505 Delay time: 33.77888
+System go sleep
+Send delay T7 due server sleep
+Send delay T8 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:01:55
+Send success T30, Received time: 05/12/2022, 00:01:56.053 Delay time: 109.95191
+Send success T21, Received time: 05/12/2022, 00:01:56.562 Delay time: 33.76651
+System go sleep
+Send delay T1 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:01:58
+Send success T2, Received time: 05/12/2022, 00:01:59.633 Delay time: 49.11147
+System go sleep
+Send delay T2 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:02:01
+System go sleep
+Send delay T31 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:02:04
+Send success T7, Received time: 05/12/2022, 00:02:05.242 Delay time: 155.42518
+System go sleep
+Send delay T31 due server sleep
+Send delay T18 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:02:08
+Send success T8, Received time: 05/12/2022, 00:02:08.824 Delay time: 64.44368
+System go sleep
+Send delay T17 due server sleep
+Send delay T9 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:02:11
+Send success T23, Received time: 05/12/2022, 00:02:11.370 Delay time: 35.25966
+Send success T8, Received time: 05/12/2022, 00:02:11.882 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+Send delay T21 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:02:14
+Send success T12, Received time: 05/12/2022, 00:02:14.444 Delay time: 52.6695
+System go sleep
+Send delay T17 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:02:17
+Send success T7, Received time: 05/12/2022, 00:02:17.514 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:02:20
+Send success T26, Received time: 05/12/2022, 00:02:20.588 Delay time: 88.4735
+System go sleep
+Send delay T28 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:02:23
+Send success T14, Received time: 05/12/2022, 00:02:23.143 Delay time: 81.83424
+Send success T22, Received time: 05/12/2022, 00:02:23.656 Delay time: 43.9621
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:02:26
+Send success T25, Received time: 05/12/2022, 00:02:26.211 Delay time: 179.47383
+Send success T5, Received time: 05/12/2022, 00:02:26.724 Delay time: 0.0
+System go sleep
+Send delay T31 due server sleep
+Send delay T31 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:02:29
+System go sleep
+Send delay T22 due server sleep
+Send delay T20 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:02:32
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:02:35
+Send success T14, Received time: 05/12/2022, 00:02:35.415 Delay time: 0.0
+Send success T31, Received time: 05/12/2022, 00:02:35.928 Delay time: 154.43519
+System go sleep
+System Wake Up 05/12/2022, 00:02:38
+System go sleep
+System Wake Up 05/12/2022, 00:02:41
+Send success T10, Received time: 05/12/2022, 00:02:41.553 Delay time: 49.07198
+Send success T0, Received time: 05/12/2022, 00:02:42.064 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+Send delay T18 due server sleep
+Send delay T4 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:02:44
+Send success T4, Received time: 05/12/2022, 00:02:44.619 Delay time: 40.39195
+System go sleep
+Send delay T18 due server sleep
+Send delay T11 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:02:47
+Send success T8, Received time: 05/12/2022, 00:02:47.184 Delay time: 0.0
+Send success T10, Received time: 05/12/2022, 00:02:47.695 Delay time: 0.0
+System go sleep
+Send delay T26 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:02:50
+Send success T29, Received time: 05/12/2022, 00:02:50.764 Delay time: 116.60054
+System go sleep
+Send delay T19 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:02:53
+System go sleep
+Send delay T18 due server sleep
+Send delay T27 due server sleep
+Send delay T7 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:02:56
+Send success T27, Received time: 05/12/2022, 00:02:56.374 Delay time: 60.83242
+Send success T31, Received time: 05/12/2022, 00:02:56.884 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:02:59
+Send success T23, Received time: 05/12/2022, 00:02:59.447 Delay time: 37.32526
+System go sleep
+Send delay T21 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:03:02
+Send success T6, Received time: 05/12/2022, 00:03:03.024 Delay time: 73.09663
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:03:05
+Send success T24, Received time: 05/12/2022, 00:03:05.579 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+Send delay T30 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:03:08
+System go sleep
+Send delay T15 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:03:11
+Send success T21, Received time: 05/12/2022, 00:03:11.214 Delay time: 58.30673
+Send success T25, Received time: 05/12/2022, 00:03:11.726 Delay time: 0.0
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:03:14
+System go sleep
+Send delay T1 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:03:17
+Send success T0, Received time: 05/12/2022, 00:03:17.352 Delay time: 0.0
+Send success T20, Received time: 05/12/2022, 00:03:17.866 Delay time: 47.05114
+System go sleep
+System Wake Up 05/12/2022, 00:03:20
+System go sleep
+Send delay T2 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:03:23
+Send success T21, Received time: 05/12/2022, 00:03:23.488 Delay time: 0.0
+System go sleep
+Send delay T4 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:03:26
+Send success T19, Received time: 05/12/2022, 00:03:26.551 Delay time: 129.89091
+System go sleep
+System Wake Up 05/12/2022, 00:03:29
+Send success T5, Received time: 05/12/2022, 00:03:30.135 Delay time: 0.0
+System go sleep
+Send delay T22 due server sleep
+Send delay T29 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:03:32
+Send success T15, Received time: 05/12/2022, 00:03:32.691 Delay time: 106.85143
+Send success T26, Received time: 05/12/2022, 00:03:33.204 Delay time: 44.99473
+System go sleep
+Send delay T9 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:03:35
+System go sleep
+Send success T1, Received time: 05/12/2022, 00:03:36.262 Delay time: 98.6774
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:03:38
+Send success T8, Received time: 05/12/2022, 00:03:38.819 Delay time: 0.0
+System go sleep
+Send delay T14 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:03:41
+System go sleep
+Send delay T20 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:03:44
+System go sleep
+Send delay T10 due server sleep
+Send delay T13 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:03:47
+Send success T18, Received time: 05/12/2022, 00:03:47.497 Delay time: 205.05795
+Send success T30, Received time: 05/12/2022, 00:03:48.009 Delay time: 40.89032
+System go sleep
+Send delay T2 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:03:50
+System go sleep
+Send delay T9 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:03:53
+System go sleep
+Send delay T2 due server sleep
+Send delay T28 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:03:56
+Send success T27, Received time: 05/12/2022, 00:03:56.694 Delay time: 0.0
+System go sleep
+Send delay T13 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:03:59
+Send success T2, Received time: 05/12/2022, 00:04:00.284 Delay time: 120.13892
+System go sleep
+Send delay T13 due server sleep
+Send delay T25 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:04:02
+Send success T5, Received time: 05/12/2022, 00:04:02.849 Delay time: 0.0
+System go sleep
+Send delay T16 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:04:05
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:04:08
+Send success T11, Received time: 05/12/2022, 00:04:08.457 Delay time: 160.5379
+System go sleep
+Send delay T18 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:04:11
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:04:14
+Send success T24, Received time: 05/12/2022, 00:04:14.590 Delay time: 0.0
+System go sleep
+Send delay T19 due server sleep
+Send delay T1 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:04:17
+Send success T11, Received time: 05/12/2022, 00:04:18.163 Delay time: 0.0
+System go sleep
+Send delay T7 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:04:20
+Send success T17, Received time: 05/12/2022, 00:04:20.721 Delay time: 308.30757
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:04:23
+Send success T13, Received time: 05/12/2022, 00:04:23.791 Delay time: 129.85911
+Send success T23, Received time: 05/12/2022, 00:04:24.301 Delay time: 43.43841
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:04:26
+Send success T10, Received time: 05/12/2022, 00:04:26.857 Delay time: 41.39069
+Send success T20, Received time: 05/12/2022, 00:04:27.369 Delay time: 44.97001
+System go sleep
+Send delay T4 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:04:29
+Send success T26, Received time: 05/12/2022, 00:04:29.925 Delay time: 0.0
+System go sleep
+Send delay T15 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:04:32
+System go sleep
+Send delay T19 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:04:35
+Send success T29, Received time: 05/12/2022, 00:04:35.560 Delay time: 103.77125
+System go sleep
+Send delay T7 due server sleep
+Send delay T7 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:04:38
+Send success T31, Received time: 05/12/2022, 00:04:38.625 Delay time: 34.24524
+Send success T31, Received time: 05/12/2022, 00:04:39.138 Delay time: 0.0
+System go sleep
+Send delay T9 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:04:41
+Send success T4, Received time: 05/12/2022, 00:04:41.700 Delay time: 77.18791
+System go sleep
+Send delay T15 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:04:44
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:04:47
+Send success T29, Received time: 05/12/2022, 00:04:47.825 Delay time: 0.0
+Send success T20, Received time: 05/12/2022, 00:04:48.339 Delay time: 0.0
+System go sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:04:50
+Send success T19, Received time: 05/12/2022, 00:04:51.411 Delay time: 73.61628
+System go sleep
+Send delay T16 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:04:53
+System go sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:04:56
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:04:59
+Send success T4, Received time: 05/12/2022, 00:04:59.605 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:05:02
+Send success T17, Received time: 05/12/2022, 00:05:02.640 Delay time: 0.0
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:05:05
+Send success T16, Received time: 05/12/2022, 00:05:05.676 Delay time: 102.69787
+Send success T5, Received time: 05/12/2022, 00:05:06.185 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:05:08
+System go sleep
+System Wake Up 05/12/2022, 00:05:11
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:05:14
+System go sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:05:17
+Send success T10, Received time: 05/12/2022, 00:05:17.960 Delay time: 37.79763
+System go sleep
+Send delay T13 due server sleep
+Send delay T6 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:05:20
+Send success T23, Received time: 05/12/2022, 00:05:21.026 Delay time: 0.0
+System go sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:05:23
+Send success T6, Received time: 05/12/2022, 00:05:23.584 Delay time: 138.51645
+Send success T22, Received time: 05/12/2022, 00:05:24.094 Delay time: 173.79379
+System go sleep
+Send delay T29 due server sleep
+Send delay T0 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:05:26
+Send success T28, Received time: 05/12/2022, 00:05:27.159 Delay time: 519.49264
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:05:29
+Send success T26, Received time: 05/12/2022, 00:05:29.709 Delay time: 0.0
+System go sleep
+Send delay T11 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:05:32
+Send success T25, Received time: 05/12/2022, 00:05:33.294 Delay time: 91.98449
+System go sleep
+Send delay T21 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:05:35
+Send success T27, Received time: 05/12/2022, 00:05:35.861 Delay time: 45.47413
+System go sleep
+Send delay T16 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:05:38
+Send success T30, Received time: 05/12/2022, 00:05:39.433 Delay time: 109.88736
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:05:41
+Send success T2, Received time: 05/12/2022, 00:05:42.503 Delay time: 43.41091
+System go sleep
+Send delay T1 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:05:44
+System go sleep
+Send delay T7 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:05:47
+System go sleep
+Send delay T9 due server sleep
+Send delay T12 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:05:50
+Send success T3, Received time: 05/12/2022, 00:05:51.204 Delay time: 288.36038
+System go sleep
+Send delay T18 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:05:53
+Send success T23, Received time: 05/12/2022, 00:05:53.769 Delay time: 0.0
+Send success T19, Received time: 05/12/2022, 00:05:54.279 Delay time: 0.0
+System go sleep
+Send delay T12 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:05:56
+Send success T15, Received time: 05/12/2022, 00:05:56.838 Delay time: 132.90783
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:05:59
+System go sleep
+Send delay T22 due server sleep
+Send delay T8 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:06:02
+Send success T31, Received time: 05/12/2022, 00:06:03.476 Delay time: 0.0
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:06:05
+System go sleep
+Send delay T8 due server sleep
+Send delay T13 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:06:08
+System go sleep
+Send delay T24 due server sleep
+Send delay T16 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:06:11
+Send success T12, Received time: 05/12/2022, 00:06:12.692 Delay time: 236.20235
+System go sleep
+Send delay T28 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:06:14
+System go sleep
+System Wake Up 05/12/2022, 00:06:17
+Send success T12, Received time: 05/12/2022, 00:06:18.311 Delay time: 0.0
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:06:20
+Send success T24, Received time: 05/12/2022, 00:06:20.869 Delay time: 45.52266
+System go sleep
+Send delay T5 due server sleep
+Send delay T20 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:06:23
+Send success T0, Received time: 05/12/2022, 00:06:23.945 Delay time: 142.12223
+Send success T4, Received time: 05/12/2022, 00:06:24.454 Delay time: 0.0
+System go sleep
+Send delay T9 due server sleep
+Send delay T14 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:06:26
+Send success T19, Received time: 05/12/2022, 00:06:27.523 Delay time: 0.0
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:06:29
+Send success T27, Received time: 05/12/2022, 00:06:30.081 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+Send delay T16 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:06:32
+Send success T15, Received time: 05/12/2022, 00:06:33.147 Delay time: 0.0
+Send success T26, Received time: 05/12/2022, 00:06:33.660 Delay time: 0.0
+System go sleep
+Send delay T1 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:06:35
+System go sleep
+Send delay T0 due server sleep
+Send delay T31 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:06:38
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:06:41
+Send success T28, Received time: 05/12/2022, 00:06:42.343 Delay time: 74.16565
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:06:44
+Send success T21, Received time: 05/12/2022, 00:06:45.412 Delay time: 127.80772
+System go sleep
+Send delay T21 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:06:47
+System go sleep
+Send delay T14 due server sleep
+Send delay T30 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:06:50
+Send success T1, Received time: 05/12/2022, 00:06:51.011 Delay time: 154.89396
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:06:53
+System go sleep
+Send delay T30 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:06:56
+System go sleep
+Send delay T20 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:06:59
+Send success T8, Received time: 05/12/2022, 00:07:00.239 Delay time: 148.26683
+Send success T20, Received time: 05/12/2022, 00:07:00.747 Delay time: 37.82587
+System go sleep
+Send delay T30 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:07:02
+Send success T29, Received time: 05/12/2022, 00:07:03.317 Delay time: 98.20465
+System go sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:07:05
+Send success T25, Received time: 05/12/2022, 00:07:05.866 Delay time: 60.3365
+Send success T7, Received time: 05/12/2022, 00:07:06.380 Delay time: 251.01817
+System go sleep
+Send delay T11 due server sleep
+Send delay T18 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:07:08
+Send success T8, Received time: 05/12/2022, 00:07:09.432 Delay time: 0.0
+System go sleep
+Send delay T20 due server sleep
+Send delay T24 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:07:11
+Send success T17, Received time: 05/12/2022, 00:07:12.501 Delay time: 85.3919
+System go sleep
+Send delay T13 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:07:14
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:07:17
+Send success T21, Received time: 05/12/2022, 00:07:18.130 Delay time: 32.20577
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:07:20
+System go sleep
+Send delay T17 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:07:23
+Send success T24, Received time: 05/12/2022, 00:07:24.760 Delay time: 45.98495
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:07:26
+Send success T2, Received time: 05/12/2022, 00:07:27.827 Delay time: 0.0
+System go sleep
+Send delay T26 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:07:29
+System go sleep
+Send delay T11 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:07:32
+Send success T29, Received time: 05/12/2022, 00:07:33.458 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:07:35
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:07:38
+Send success T5, Received time: 05/12/2022, 00:07:39.067 Delay time: 77.17387
+System go sleep
+Send delay T13 due server sleep
+Send delay T12 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:07:41
+Send success T13, Received time: 05/12/2022, 00:07:42.644 Delay time: 143.66314
+System go sleep
+Send delay T10 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:07:44
+Send success T14, Received time: 05/12/2022, 00:07:45.707 Delay time: 245.86739
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:07:47
+System go sleep
+System Wake Up 05/12/2022, 00:07:50
+Send success T16, Received time: 05/12/2022, 00:07:51.312 Delay time: 134.42579
+System go sleep
+System Wake Up 05/12/2022, 00:07:53
+Send success T22, Received time: 05/12/2022, 00:07:54.374 Delay time: 113.45407
+System go sleep
+Send delay T19 due server sleep
+Send delay T6 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:07:57
+Send success T11, Received time: 05/12/2022, 00:07:57.412 Delay time: 146.68103
+System go sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:08:00
+Send success T10, Received time: 05/12/2022, 00:08:00.985 Delay time: 154.84902
+System go sleep
+Send delay T5 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:08:03
+System go sleep
+Send delay T17 due server sleep
+Send delay T1 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:08:06
+Send success T17, Received time: 05/12/2022, 00:08:06.093 Delay time: 43.37696
+System go sleep
+Send delay T18 due server sleep
+Send delay T27 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:08:09
+Send success T29, Received time: 05/12/2022, 00:08:09.162 Delay time: 0.0
+System go sleep
+Send delay T2 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:08:12
+Send success T31, Received time: 05/12/2022, 00:08:12.743 Delay time: 94.98908
+System go sleep
+System Wake Up 05/12/2022, 00:08:15
+Send success T25, Received time: 05/12/2022, 00:08:15.306 Delay time: 0.0
+Send success T24, Received time: 05/12/2022, 00:08:15.819 Delay time: 34.70757
+System go sleep
+Send delay T20 due server sleep
+Send delay T4 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:08:18
+System go sleep
+Send delay T7 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:08:21
+Send success T13, Received time: 05/12/2022, 00:08:21.438 Delay time: 0.0
+Send success T28, Received time: 05/12/2022, 00:08:21.950 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:08:24
+Send success T9, Received time: 05/12/2022, 00:08:25.013 Delay time: 446.76751
+System go sleep
+Send delay T27 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:08:27
+System go sleep
+Send delay T27 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:08:30
+Send success T30, Received time: 05/12/2022, 00:08:30.649 Delay time: 138.98168
+System go sleep
+System Wake Up 05/12/2022, 00:08:33
+Send success T27, Received time: 05/12/2022, 00:08:33.199 Delay time: 60.7634
+Send success T12, Received time: 05/12/2022, 00:08:33.708 Delay time: 91.4156
+System go sleep
+Send delay T6 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:08:36
+Send success T27, Received time: 05/12/2022, 00:08:36.780 Delay time: 0.0
+System go sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:08:39
+Send success T18, Received time: 05/12/2022, 00:08:39.335 Delay time: 269.8551
+Send success T30, Received time: 05/12/2022, 00:08:39.847 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:08:42
+Send success T15, Received time: 05/12/2022, 00:08:42.392 Delay time: 0.0
+System go sleep
+Send delay T7 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:08:45
+Send success T20, Received time: 05/12/2022, 00:08:45.455 Delay time: 94.9997
+System go sleep
+Send delay T16 due server sleep
+Send delay T1 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:08:48
+System go sleep
+Send delay T18 due server sleep
+Send delay T19 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:08:51
+System go sleep
+Send delay T14 due server sleep
+Send delay T8 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:08:54
+Send success T26, Received time: 05/12/2022, 00:08:54.646 Delay time: 86.30623
+System go sleep
+Send delay T0 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:08:57
+Send success T31, Received time: 05/12/2022, 00:08:57.204 Delay time: 0.0
+System go sleep
+Send delay T5 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:09:00
+Send success T21, Received time: 05/12/2022, 00:09:00.274 Delay time: 49.05994
+Send success T23, Received time: 05/12/2022, 00:09:00.784 Delay time: 95.00068
+System go sleep
+Send delay T9 due server sleep
+Send delay T25 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:09:03
+Send success T2, Received time: 05/12/2022, 00:09:03.339 Delay time: 52.6369
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:09:06
+Send success T2, Received time: 05/12/2022, 00:09:06.414 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+Send delay T19 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:09:09
+System go sleep
+Send delay T13 due server sleep
+Send delay T5 due server sleep
+Send delay T27 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:09:12
+System go sleep
+Send delay T1 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:09:15
+System go sleep
+System Wake Up 05/12/2022, 00:09:18
+Send success T17, Received time: 05/12/2022, 00:09:19.218 Delay time: 61.86097
+System go sleep
+Send delay T30 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:09:21
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:09:24
+Send success T5, Received time: 05/12/2022, 00:09:24.337 Delay time: 82.83826
+Send success T7, Received time: 05/12/2022, 00:09:24.848 Delay time: 121.62158
+System go sleep
+Send delay T4 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:09:27
+Send success T16, Received time: 05/12/2022, 00:09:27.914 Delay time: 40.93025
+System go sleep
+Send delay T3 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:09:30
+Send success T15, Received time: 05/12/2022, 00:09:30.998 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:09:33
+Send success T29, Received time: 05/12/2022, 00:09:34.064 Delay time: 52.68427
+System go sleep
+Send delay T3 due server sleep
+Send delay T1 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:09:36
+Send success T9, Received time: 05/12/2022, 00:09:36.617 Delay time: 35.32342
+Send success T7, Received time: 05/12/2022, 00:09:37.128 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:09:39
+Send success T20, Received time: 05/12/2022, 00:09:40.196 Delay time: 0.0
+System go sleep
+Send delay T12 due server sleep
+Send delay T31 due server sleep
+Send delay T22 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:09:42
+Send success T18, Received time: 05/12/2022, 00:09:42.753 Delay time: 52.70394
+Send success T16, Received time: 05/12/2022, 00:09:43.262 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:09:45
+Send success T2, Received time: 05/12/2022, 00:09:45.819 Delay time: 0.0
+System go sleep
+Send delay T10 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:09:48
+System go sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:09:51
+Send success T12, Received time: 05/12/2022, 00:09:51.440 Delay time: 57.30251
+Send success T26, Received time: 05/12/2022, 00:09:51.952 Delay time: 0.0
+System go sleep
+Send delay T30 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:09:54
+Send success T8, Received time: 05/12/2022, 00:09:54.510 Delay time: 128.29181
+System go sleep
+Send delay T4 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:09:57
+System go sleep
+System Wake Up 05/12/2022, 00:10:00
+Send success T24, Received time: 05/12/2022, 00:10:01.166 Delay time: 34.27541
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:10:03
+System go sleep
+Send delay T12 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:10:06
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:10:09
+Send success T7, Received time: 05/12/2022, 00:10:09.870 Delay time: 0.0
+Send success T11, Received time: 05/12/2022, 00:10:10.381 Delay time: 131.94509
+System go sleep
+Send delay T3 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:10:12
+Send success T11, Received time: 05/12/2022, 00:10:12.434 Delay time: 0.0
+Send success T28, Received time: 05/12/2022, 00:10:12.945 Delay time: 42.97822
+System go sleep
+Send delay T1 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:10:15
+Send success T17, Received time: 05/12/2022, 00:10:16.016 Delay time: 55.25983
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:10:18
+Send success T21, Received time: 05/12/2022, 00:10:18.579 Delay time: 33.78234
+Send success T17, Received time: 05/12/2022, 00:10:19.091 Delay time: 0.0
+System go sleep
+Send delay T16 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:10:21
+Send success T23, Received time: 05/12/2022, 00:10:21.655 Delay time: 73.70143
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:10:24
+Send success T9, Received time: 05/12/2022, 00:10:24.734 Delay time: 39.42602
+Send success T30, Received time: 05/12/2022, 00:10:25.246 Delay time: 65.00114
+System go sleep
+Send delay T20 due server sleep
+Send delay T26 due server sleep
+Send delay T9 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:10:27
+Send success T27, Received time: 05/12/2022, 00:10:28.323 Delay time: 76.7926
+System go sleep
+System Wake Up 05/12/2022, 00:10:30
+Send success T21, Received time: 05/12/2022, 00:10:30.879 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:10:33
+System go sleep
+System Wake Up 05/12/2022, 00:10:36
+Send success T25, Received time: 05/12/2022, 00:10:37.013 Delay time: 95.20592
+System go sleep
+Send delay T10 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:10:39
+Send success T27, Received time: 05/12/2022, 00:10:39.578 Delay time: 0.0
+System go sleep
+Send delay T6 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:10:42
+Send success T29, Received time: 05/12/2022, 00:10:43.168 Delay time: 67.57135
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:10:45
+Send success T19, Received time: 05/12/2022, 00:10:45.722 Delay time: 170.33711
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:10:48
+Send success T19, Received time: 05/12/2022, 00:10:48.788 Delay time: 0.0
+Send success T25, Received time: 05/12/2022, 00:10:49.301 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:10:51
+System go sleep
+Send delay T11 due server sleep
+Send delay T0 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:10:54
+Send success T3, Received time: 05/12/2022, 00:10:54.934 Delay time: 166.79442
+System go sleep
+Send delay T5 due server sleep
+Send delay T30 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:10:57
+Send success T2, Received time: 05/12/2022, 00:10:58.518 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:11:00
+System go sleep
+Send delay T3 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:11:03
+Send success T28, Received time: 05/12/2022, 00:11:03.638 Delay time: 0.0
+System go sleep
+Send delay T6 due server sleep
+Send delay T1 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:11:06
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:11:09
+System go sleep
+Send delay T10 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:11:12
+Send success T4, Received time: 05/12/2022, 00:11:13.333 Delay time: 209.15034
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:11:15
+Send success T6, Received time: 05/12/2022, 00:11:16.401 Delay time: 265.9042
+System go sleep
+Send delay T16 due server sleep
+Send delay T16 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:11:18
+System go sleep
+System Wake Up 05/12/2022, 00:11:21
+Send success T13, Received time: 05/12/2022, 00:11:22.026 Delay time: 131.5158
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:11:24
+Send success T0, Received time: 05/12/2022, 00:11:25.093 Delay time: 287.85246
+Send success T31, Received time: 05/12/2022, 00:11:25.599 Delay time: 104.38076
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:11:27
+System go sleep
+Send delay T31 due server sleep
+Send delay T24 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:11:30
+Send success T0, Received time: 05/12/2022, 00:11:30.714 Delay time: 0.0
+Send success T1, Received time: 05/12/2022, 00:11:31.226 Delay time: 206.16006
+System go sleep
+Send delay T20 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:11:33
+Send success T26, Received time: 05/12/2022, 00:11:34.300 Delay time: 68.02657
+System go sleep
+Send delay T11 due server sleep
+Send delay T8 due server sleep
+Send delay T25 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:11:36
+Send success T8, Received time: 05/12/2022, 00:11:36.858 Delay time: 39.36533
+System go sleep
+Send delay T21 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:11:39
+System go sleep
+Send delay T28 due server sleep
+Send delay T4 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:11:42
+Send success T14, Received time: 05/12/2022, 00:11:42.988 Delay time: 170.38296
+Send success T24, Received time: 05/12/2022, 00:11:43.502 Delay time: 91.5826
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:11:45
+Send success T9, Received time: 05/12/2022, 00:11:46.063 Delay time: 79.27736
+Send success T1, Received time: 05/12/2022, 00:11:46.578 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+Send delay T5 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:11:48
+System go sleep
+Send delay T7 due server sleep
+Send delay T15 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:11:51
+Send success T2, Received time: 05/12/2022, 00:11:52.710 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:11:54
+Send success T15, Received time: 05/12/2022, 00:11:55.271 Delay time: 76.72006
+System go sleep
+Send delay T24 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:11:57
+Send success T14, Received time: 05/12/2022, 00:11:58.343 Delay time: 0.0
+System go sleep
+Send delay T10 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:12:00
+Send success T12, Received time: 05/12/2022, 00:12:00.898 Delay time: 116.15066
+Send success T27, Received time: 05/12/2022, 00:12:01.411 Delay time: 43.48128
+System go sleep
+Send delay T15 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:12:03
+Send success T27, Received time: 05/12/2022, 00:12:03.968 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:12:06
+Send success T22, Received time: 05/12/2022, 00:12:07.543 Delay time: 199.53648
+System go sleep
+Send delay T29 due server sleep
+Send delay T31 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:12:09
+Send success T3, Received time: 05/12/2022, 00:12:10.095 Delay time: 67.99648
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:12:12
+Send success T25, Received time: 05/12/2022, 00:12:13.672 Delay time: 37.83964
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:12:15
+Send success T13, Received time: 05/12/2022, 00:12:16.225 Delay time: 52.15424
+Send success T10, Received time: 05/12/2022, 00:12:16.736 Delay time: 150.40867
+System go sleep
+Send delay T20 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:12:18
+System go sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:12:21
+System go sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:12:24
+Send success T28, Received time: 05/12/2022, 00:12:24.927 Delay time: 43.98135
+System go sleep
+Send delay T2 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:12:27
+Send success T28, Received time: 05/12/2022, 00:12:27.999 Delay time: 0.0
+System go sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:12:30
+Send success T11, Received time: 05/12/2022, 00:12:31.566 Delay time: 98.67806
+System go sleep
+Send delay T18 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:12:33
+Send success T16, Received time: 05/12/2022, 00:12:34.102 Delay time: 133.98614
+Send success T23, Received time: 05/12/2022, 00:12:34.616 Delay time: 104.80162
+System go sleep
+Send delay T25 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:12:36
+System go sleep
+Send delay T31 due server sleep
+Send delay T13 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:12:39
+System go sleep
+Send delay T19 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:12:42
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:12:45
+Send success T15, Received time: 05/12/2022, 00:12:46.347 Delay time: 43.39855
+Send success T17, Received time: 05/12/2022, 00:12:46.856 Delay time: 59.76566
+System go sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:12:48
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:12:51
+Send success T4, Received time: 05/12/2022, 00:12:52.471 Delay time: 71.01217
+System go sleep
+Send delay T29 due server sleep
+Send delay T9 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:12:54
+Send success T6, Received time: 05/12/2022, 00:12:55.017 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:12:57
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:13:00
+System go sleep
+Send delay T4 due server sleep
+Send delay T7 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:13:03
+Send success T23, Received time: 05/12/2022, 00:13:04.185 Delay time: 0.0
+System go sleep
+Send delay T22 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:13:06
+Send success T14, Received time: 05/12/2022, 00:13:07.752 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:13:09
+Send success T2, Received time: 05/12/2022, 00:13:10.308 Delay time: 44.35261
+System go sleep
+Send delay T26 due server sleep
+Send delay T9 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:13:12
+Send success T21, Received time: 05/12/2022, 00:13:13.367 Delay time: 95.48573
+Send success T19, Received time: 05/12/2022, 00:13:13.880 Delay time: 32.11848
+System go sleep
+Send delay T11 due server sleep
+Send delay T19 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:13:16
+Send success T28, Received time: 05/12/2022, 00:13:16.424 Delay time: 0.0
+System go sleep
+Send delay T25 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:13:19
+Send success T3, Received time: 05/12/2022, 00:13:20.003 Delay time: 65.31063
+System go sleep
+System Wake Up 05/12/2022, 00:13:22
+Send success T25, Received time: 05/12/2022, 00:13:22.042 Delay time: 46.91514
+System go sleep
+System Wake Up 05/12/2022, 00:13:25
+System go sleep
+Send delay T20 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:13:28
+System go sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:13:31
+Send success T5, Received time: 05/12/2022, 00:13:31.217 Delay time: 217.21441
+System go sleep
+Send delay T10 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:13:34
+Send success T17, Received time: 05/12/2022, 00:13:34.272 Delay time: 0.0
+System go sleep
+Send delay T26 due server sleep
+Send delay T3 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:13:37
+Send success T7, Received time: 05/12/2022, 00:13:37.328 Delay time: 151.13528
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:13:40
+Send success T21, Received time: 05/12/2022, 00:13:40.390 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:13:43
+Send success T18, Received time: 05/12/2022, 00:13:43.955 Delay time: 217.66868
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:13:46
+Send success T1, Received time: 05/12/2022, 00:13:47.016 Delay time: 80.54628
+System go sleep
+Send delay T31 due server sleep
+Send delay T22 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:13:49
+Send success T29, Received time: 05/12/2022, 00:13:49.564 Delay time: 160.81539
+Send success T31, Received time: 05/12/2022, 00:13:50.076 Delay time: 141.40321
+System go sleep
+Send delay T29 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:13:52
+Send success T22, Received time: 05/12/2022, 00:13:52.628 Delay time: 47.42457
+System go sleep
+Send delay T27 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:13:55
+System go sleep
+Send delay T11 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:13:58
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:14:01
+Send success T19, Received time: 05/12/2022, 00:14:01.783 Delay time: 46.3752
+System go sleep
+Send delay T23 due server sleep
+Send delay T20 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:14:04
+System go sleep
+Send delay T27 due server sleep
+Send delay T1 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:14:07
+Send success T10, Received time: 05/12/2022, 00:14:07.378 Delay time: 35.1414
+System go sleep
+Send delay T27 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:14:10
+Send success T10, Received time: 05/12/2022, 00:14:10.945 Delay time: 0.0
+System go sleep
+Send delay T20 due server sleep
+Send delay T31 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:14:13
+Send success T4, Received time: 05/12/2022, 00:14:14.000 Delay time: 71.85825
+System go sleep
+Send delay T9 due server sleep
+Send delay T30 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:14:16
+Send success T8, Received time: 05/12/2022, 00:14:16.546 Delay time: 131.04227
+System go sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:14:19
+System go sleep
+Send delay T24 due server sleep
+Send delay T18 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:14:22
+Send success T29, Received time: 05/12/2022, 00:14:23.172 Delay time: 32.07478
+System go sleep
+Send delay T29 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:14:25
+System go sleep
+System Wake Up 05/12/2022, 00:14:28
+System go sleep
+Send delay T30 due server sleep
+Send delay T8 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:14:31
+Send success T27, Received time: 05/12/2022, 00:14:31.341 Delay time: 87.66389
+System go sleep
+System Wake Up 05/12/2022, 00:14:34
+Send success T9, Received time: 05/12/2022, 00:14:34.401 Delay time: 162.71235
+System go sleep
+Send delay T3 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:14:37
+System go sleep
+Send delay T20 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:14:40
+Send success T21, Received time: 05/12/2022, 00:14:40.523 Delay time: 0.0
+Send success T7, Received time: 05/12/2022, 00:14:41.032 Delay time: 0.0
+System go sleep
+Send delay T20 due server sleep
+Send delay T22 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:14:43
+Send success T25, Received time: 05/12/2022, 00:14:43.581 Delay time: 0.0
+Send success T13, Received time: 05/12/2022, 00:14:44.090 Delay time: 124.87637
+System go sleep
+Send delay T30 due server sleep
+Send delay T26 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:14:46
+Send success T5, Received time: 05/12/2022, 00:14:47.161 Delay time: 58.10387
+System go sleep
+Send delay T27 due server sleep
+Send delay T5 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:14:49
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:14:52
+Send success T1, Received time: 05/12/2022, 00:14:52.769 Delay time: 46.41158
+System go sleep
+Send delay T15 due server sleep
+Send delay T20 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:14:55
+System go sleep
+Send success T0, Received time: 05/12/2022, 00:14:56.332 Delay time: 106.53723
+Send delay T24 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:14:58
+Send success T18, Received time: 05/12/2022, 00:14:58.375 Delay time: 36.7325
+Send success T1, Received time: 05/12/2022, 00:14:58.886 Delay time: 0.0
+System go sleep
+Send delay T14 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:15:01
+Send success T26, Received time: 05/12/2022, 00:15:01.435 Delay time: 205.08958
+System go sleep
+System Wake Up 05/12/2022, 00:15:04
+Send success T4, Received time: 05/12/2022, 00:15:04.502 Delay time: 0.0
+Send success T16, Received time: 05/12/2022, 00:15:05.011 Delay time: 88.19159
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:15:07
+Send success T11, Received time: 05/12/2022, 00:15:08.063 Delay time: 113.67522
+System go sleep
+Send delay T22 due server sleep
+Send delay T26 due server sleep
+Send delay T14 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:15:10
+Send success T20, Received time: 05/12/2022, 00:15:10.612 Delay time: 284.8526
+Send success T15, Received time: 05/12/2022, 00:15:11.126 Delay time: 115.21046
+System go sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:15:13
+Send success T18, Received time: 05/12/2022, 00:15:13.674 Delay time: 0.0
+Send success T13, Received time: 05/12/2022, 00:15:14.180 Delay time: 0.0
+System go sleep
+Send delay T31 due server sleep
+Send delay T8 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:15:16
+Send success T17, Received time: 05/12/2022, 00:15:16.729 Delay time: 54.57521
+System go sleep
+Send delay T30 due server sleep
+Send delay T8 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:15:19
+Send success T7, Received time: 05/12/2022, 00:15:20.298 Delay time: 0.0
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:15:22
+Send success T6, Received time: 05/12/2022, 00:15:23.359 Delay time: 104.50119
+System go sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:15:25
+Send success T27, Received time: 05/12/2022, 00:15:25.907 Delay time: 38.23699
+System go sleep
+Send delay T23 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:15:28
+Send success T22, Received time: 05/12/2022, 00:15:28.964 Delay time: 82.09571
+System go sleep
+Send delay T16 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:15:31
+Send success T17, Received time: 05/12/2022, 00:15:31.511 Delay time: 0.0
+Send success T25, Received time: 05/12/2022, 00:15:32.019 Delay time: 0.0
+System go sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:15:34
+Send success T0, Received time: 05/12/2022, 00:15:35.077 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+Send delay T30 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:15:37
+Send success T28, Received time: 05/12/2022, 00:15:37.619 Delay time: 39.75729
+System go sleep
+System Wake Up 05/12/2022, 00:15:40
+Send success T23, Received time: 05/12/2022, 00:15:40.676 Delay time: 97.88544
+Send success T14, Received time: 05/12/2022, 00:15:41.183 Delay time: 107.02597
+System go sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:15:43
+Send success T2, Received time: 05/12/2022, 00:15:43.735 Delay time: 150.87755
+System go sleep
+Send delay T19 due server sleep
+Send delay T23 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:15:46
+Send success T18, Received time: 05/12/2022, 00:15:47.299 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:15:49
+Send success T31, Received time: 05/12/2022, 00:15:50.356 Delay time: 98.39611
+System go sleep
+Send delay T9 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:15:52
+System go sleep
+Send delay T11 due server sleep
+Send delay T7 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:15:55
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:15:58
+Send success T10, Received time: 05/12/2022, 00:15:58.527 Delay time: 66.26927
+System go sleep
+Send delay T5 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:16:01
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:16:04
+System go sleep
+Send delay T24 due server sleep
+Send delay T12 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:16:07
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:16:10
+System go sleep
+Send delay T15 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:16:13
+System go sleep
+Send delay T20 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:16:16
+Send success T28, Received time: 05/12/2022, 00:16:16.914 Delay time: 0.0
+Send success T3, Received time: 05/12/2022, 00:16:17.423 Delay time: 161.62224
+System go sleep
+Send delay T17 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:16:19
+Send success T18, Received time: 05/12/2022, 00:16:19.976 Delay time: 0.0
+Send success T0, Received time: 05/12/2022, 00:16:20.486 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:16:22
+Send success T30, Received time: 05/12/2022, 00:16:23.548 Delay time: 326.56889
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:16:25
+Send success T29, Received time: 05/12/2022, 00:16:26.101 Delay time: 121.40084
+System go sleep
+System Wake Up 05/12/2022, 00:16:28
+Send success T14, Received time: 05/12/2022, 00:16:29.155 Delay time: 0.0
+System go sleep
+Send delay T19 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:16:31
+System go sleep
+Send delay T27 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:16:34
+Send success T7, Received time: 05/12/2022, 00:16:35.278 Delay time: 40.32633
+System go sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:16:37
+Send success T13, Received time: 05/12/2022, 00:16:38.337 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+Send delay T4 due server sleep
+Send delay T24 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:16:40
+Send success T22, Received time: 05/12/2022, 00:16:40.891 Delay time: 0.0
+Send success T20, Received time: 05/12/2022, 00:16:41.401 Delay time: 73.45377
+System go sleep
+Send delay T5 due server sleep
+Send delay T5 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:16:43
+Send success T24, Received time: 05/12/2022, 00:16:44.460 Delay time: 287.65426
+System go sleep
+Send delay T21 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:16:46
+System go sleep
+System Wake Up 05/12/2022, 00:16:49
+Send success T17, Received time: 05/12/2022, 00:16:50.577 Delay time: 32.64394
+System go sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:16:52
+Send success T8, Received time: 05/12/2022, 00:16:53.134 Delay time: 142.81574
+Send success T19, Received time: 05/12/2022, 00:16:53.647 Delay time: 163.72473
+System go sleep
+System Wake Up 05/12/2022, 00:16:55
+Send success T6, Received time: 05/12/2022, 00:16:55.688 Delay time: 0.0
+System go sleep
+Send delay T12 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:16:58
+Send success T17, Received time: 05/12/2022, 00:16:58.747 Delay time: 0.0
+Send success T11, Received time: 05/12/2022, 00:16:59.256 Delay time: 109.15537
+System go sleep
+System Wake Up 05/12/2022, 00:17:01
+System go sleep
+Send delay T28 due server sleep
+Send delay T21 due server sleep
+Send delay T24 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:17:04
+System go sleep
+Send delay T23 due server sleep
+Send delay T12 due server sleep
+Send delay T27 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:17:07
+Send success T18, Received time: 05/12/2022, 00:17:07.940 Delay time: 0.0
+Send success T25, Received time: 05/12/2022, 00:17:08.449 Delay time: 0.0
+System go sleep
+Send delay T14 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:17:10
+System go sleep
+Send delay T2 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:17:13
+Send success T15, Received time: 05/12/2022, 00:17:14.056 Delay time: 110.18678
+Send success T19, Received time: 05/12/2022, 00:17:14.567 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+Send delay T22 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:17:16
+Send success T30, Received time: 05/12/2022, 00:17:17.114 Delay time: 42.85815
+Send success T29, Received time: 05/12/2022, 00:17:17.626 Delay time: 38.77652
+System go sleep
+Send delay T16 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:17:19
+Send success T29, Received time: 05/12/2022, 00:17:20.183 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+Send delay T21 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:17:22
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:17:25
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:17:28
+Send success T10, Received time: 05/12/2022, 00:17:28.875 Delay time: 63.28288
+Send success T7, Received time: 05/12/2022, 00:17:29.388 Delay time: 36.76552
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:17:31
+Send success T30, Received time: 05/12/2022, 00:17:31.945 Delay time: 0.0
+Send success T27, Received time: 05/12/2022, 00:17:32.446 Delay time: 119.91764
+System go sleep
+Send delay T31 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:17:34
+Send success T17, Received time: 05/12/2022, 00:17:35.498 Delay time: 0.0
+System go sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:17:37
+Send success T11, Received time: 05/12/2022, 00:17:38.553 Delay time: 0.0
+System go sleep
+Send delay T7 due server sleep
+Send delay T27 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:17:40
+Send success T16, Received time: 05/12/2022, 00:17:41.095 Delay time: 130.60303
+Send success T23, Received time: 05/12/2022, 00:17:41.607 Delay time: 115.83744
+System go sleep
+System Wake Up 05/12/2022, 00:17:43
+Send success T26, Received time: 05/12/2022, 00:17:44.166 Delay time: 155.08375
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:17:46
+System go sleep
+Send delay T18 due server sleep
+Send delay T12 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:17:49
+Send success T9, Received time: 05/12/2022, 00:17:50.288 Delay time: 163.24242
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:17:52
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:17:55
+Send success T24, Received time: 05/12/2022, 00:17:56.409 Delay time: 52.54733
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:17:58
+Send success T9, Received time: 05/12/2022, 00:17:58.954 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:18:01
+Send success T16, Received time: 05/12/2022, 00:18:02.527 Delay time: 0.0
+System go sleep
+Send delay T2 due server sleep
+Send delay T28 due server sleep
+Send delay T22 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:18:04
+Send success T19, Received time: 05/12/2022, 00:18:05.587 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:18:07
+Send success T2, Received time: 05/12/2022, 00:18:08.133 Delay time: 56.12109
+Send success T8, Received time: 05/12/2022, 00:18:08.643 Delay time: 47.4355
+System go sleep
+Send delay T2 due server sleep
+Send delay T31 due server sleep
+Send delay T30 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:18:10
+Send success T1, Received time: 05/12/2022, 00:18:11.194 Delay time: 130.11318
+Send success T22, Received time: 05/12/2022, 00:18:11.704 Delay time: 55.61039
+System go sleep
+Send delay T14 due server sleep
+Send delay T17 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:18:13
+Send success T27, Received time: 05/12/2022, 00:18:14.254 Delay time: 34.6862
+Send success T20, Received time: 05/12/2022, 00:18:14.764 Delay time: 0.0
+System go sleep
+Send delay T22 due server sleep
+Send delay T4 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:18:16
+System go sleep
+Send delay T6 due server sleep
+Send delay T14 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:18:19
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:18:22
+Send success T0, Received time: 05/12/2022, 00:18:23.434 Delay time: 0.0
+Send success T13, Received time: 05/12/2022, 00:18:23.941 Delay time: 64.78024
+System go sleep
+Send delay T25 due server sleep
+Send delay T13 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:18:25
+System go sleep
+Send delay T5 due server sleep
+Send delay T7 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:18:28
+System go sleep
+Send delay T3 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:18:31
+Send success T3, Received time: 05/12/2022, 00:18:32.104 Delay time: 75.49842
+Send success T1, Received time: 05/12/2022, 00:18:32.614 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:18:34
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:18:38
+Send success T3, Received time: 05/12/2022, 00:18:38.734 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:18:41
+Send success T29, Received time: 05/12/2022, 00:18:41.788 Delay time: 44.86991
+System go sleep
+Send delay T11 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:18:44
+Send success T14, Received time: 05/12/2022, 00:18:44.845 Delay time: 95.887
+System go sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:18:47
+Send success T9, Received time: 05/12/2022, 00:18:47.912 Delay time: 0.0
+System go sleep
+Send delay T6 due server sleep
+Send delay T4 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:18:50
+System go sleep
+System Wake Up 05/12/2022, 00:18:53
+Send success T18, Received time: 05/12/2022, 00:18:53.520 Delay time: 65.2738
+Send success T12, Received time: 05/12/2022, 00:18:54.032 Delay time: 392.69202
+System go sleep
+Send delay T18 due server sleep
+Send delay T6 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:18:56
+Send success T25, Received time: 05/12/2022, 00:18:56.581 Delay time: 75.9946
+System go sleep
+Send delay T2 due server sleep
+Send delay T30 due server sleep
+Send delay T10 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:18:59
+Send success T26, Received time: 05/12/2022, 00:18:59.131 Delay time: 0.0
+System go sleep
+Send delay T5 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:19:02
+System go sleep
+Send delay T28 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:19:05
+Send success T25, Received time: 05/12/2022, 00:19:05.257 Delay time: 0.0
+System go sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:19:08
+Send success T22, Received time: 05/12/2022, 00:19:08.823 Delay time: 53.54946
+System go sleep
+Send delay T14 due server sleep
+Send delay T30 due server sleep
+Send delay T16 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:19:11
+Send success T19, Received time: 05/12/2022, 00:19:11.885 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:19:14
+System go sleep
+System Wake Up 05/12/2022, 00:19:17
+Send success T23, Received time: 05/12/2022, 00:19:18.012 Delay time: 46.93235
+System go sleep
+Send delay T23 due server sleep
+Send delay T21 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:19:20
+System go sleep
+System Wake Up 05/12/2022, 00:19:23
+Send success T29, Received time: 05/12/2022, 00:19:24.139 Delay time: 0.0
+System go sleep
+Send delay T9 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:19:26
+Send success T30, Received time: 05/12/2022, 00:19:26.683 Delay time: 76.51081
+System go sleep
+Send success T11, Received time: 05/12/2022, 00:19:27.193 Delay time: 44.38764
+Send delay T5 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:19:29
+Send success T7, Received time: 05/12/2022, 00:19:29.234 Delay time: 110.17153
+System go sleep
+System Wake Up 05/12/2022, 00:19:32
+Send success T2, Received time: 05/12/2022, 00:19:32.290 Delay time: 83.13793
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:19:35
+Send success T7, Received time: 05/12/2022, 00:19:35.356 Delay time: 0.0
+System go sleep
+Send delay T6 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:19:38
+System go sleep
+Send delay T11 due server sleep
+Send delay T12 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:19:41
+Send success T14, Received time: 05/12/2022, 00:19:42.000 Delay time: 32.66765
+System go sleep
+Send delay T12 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:19:44
+System go sleep
+Send delay T17 due server sleep
+Send delay T1 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:19:47
+Send success T22, Received time: 05/12/2022, 00:19:47.614 Delay time: 0.0
+Send success T17, Received time: 05/12/2022, 00:19:48.125 Delay time: 95.39634
+System go sleep
+Send delay T20 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:19:50
+Send success T8, Received time: 05/12/2022, 00:19:51.181 Delay time: 55.11031
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:19:53
+Send success T19, Received time: 05/12/2022, 00:19:53.720 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:19:56
+Send success T15, Received time: 05/12/2022, 00:19:56.785 Delay time: 140.27149
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:19:59
+System go sleep
+Send delay T30 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:20:02
+Send success T20, Received time: 05/12/2022, 00:20:02.393 Delay time: 55.09667
+Send success T15, Received time: 05/12/2022, 00:20:02.902 Delay time: 0.0
+System go sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:20:05
+Send success T28, Received time: 05/12/2022, 00:20:05.455 Delay time: 182.61609
+Send success T20, Received time: 05/12/2022, 00:20:05.965 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:20:08
+System go sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:20:11
+Send success T7, Received time: 05/12/2022, 00:20:11.573 Delay time: 0.0
+Send success T6, Received time: 05/12/2022, 00:20:12.082 Delay time: 164.22947
+System go sleep
+Send delay T9 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:20:14
+Send success T24, Received time: 05/12/2022, 00:20:15.140 Delay time: 112.72696
+System go sleep
+Send delay T27 due server sleep
+Send delay T8 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:20:17
+Send success T24, Received time: 05/12/2022, 00:20:18.200 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:20:20
+System go sleep
+System Wake Up 05/12/2022, 00:20:23
+Send success T4, Received time: 05/12/2022, 00:20:23.800 Delay time: 260.16835
+Send success T2, Received time: 05/12/2022, 00:20:24.310 Delay time: 50.9991
+System go sleep
+Send delay T5 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:20:26
+Send success T21, Received time: 05/12/2022, 00:20:26.854 Delay time: 277.51608
+System go sleep
+System Wake Up 05/12/2022, 00:20:29
+System go sleep
+Send delay T28 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:20:32
+System go sleep
+Send delay T26 due server sleep
+Send delay T12 due server sleep
+Send delay T29 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:20:35
+Send success T22, Received time: 05/12/2022, 00:20:36.040 Delay time: 0.0
+System go sleep
+Send delay T1 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:20:38
+Send success T10, Received time: 05/12/2022, 00:20:39.096 Delay time: 100.98601
+System go sleep
+Send delay T15 due server sleep
+Send delay T10 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:20:41
+Send success T2, Received time: 05/12/2022, 00:20:41.652 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:20:44
+Send success T26, Received time: 05/12/2022, 00:20:45.229 Delay time: 58.63394
+System go sleep
+Send delay T13 due server sleep
+Send delay T0 due server sleep
+Send delay T3 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:20:47
+Send success T27, Received time: 05/12/2022, 00:20:48.286 Delay time: 32.12601
+System go sleep
+Send delay T25 due server sleep
+Send delay T0 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:20:50
+Send success T17, Received time: 05/12/2022, 00:20:50.835 Delay time: 43.34094
+Send success T26, Received time: 05/12/2022, 00:20:51.347 Delay time: 0.0
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:20:53
+Send success T6, Received time: 05/12/2022, 00:20:54.405 Delay time: 40.79436
+System go sleep
+Send delay T7 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:20:56
+Send success T18, Received time: 05/12/2022, 00:20:57.467 Delay time: 122.92461
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:20:59
+Send success T6, Received time: 05/12/2022, 00:21:00.018 Delay time: 0.0
+Send success T0, Received time: 05/12/2022, 00:21:00.528 Delay time: 63.23152
+System go sleep
+Send delay T14 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:21:02
+Send success T28, Received time: 05/12/2022, 00:21:03.076 Delay time: 32.13399
+System go sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:21:05
+Send success T11, Received time: 05/12/2022, 00:21:05.632 Delay time: 86.18295
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:21:08
+Send success T22, Received time: 05/12/2022, 00:21:08.689 Delay time: 0.0
+Send success T20, Received time: 05/12/2022, 00:21:09.195 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:21:11
+Send success T15, Received time: 05/12/2022, 00:21:11.733 Delay time: 32.12517
+Send success T4, Received time: 05/12/2022, 00:21:12.240 Delay time: 37.22077
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:21:14
+Send success T24, Received time: 05/12/2022, 00:21:15.297 Delay time: 0.0
+System go sleep
+Send delay T11 due server sleep
+Send delay T5 due server sleep
+Send delay T14 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:21:17
+Send success T14, Received time: 05/12/2022, 00:21:17.851 Delay time: 86.16339
+System go sleep
+Send delay T31 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:21:20
+Send success T13, Received time: 05/12/2022, 00:21:20.904 Delay time: 175.94439
+System go sleep
+Send delay T8 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:21:23
+Send success T1, Received time: 05/12/2022, 00:21:23.960 Delay time: 133.09603
+System go sleep
+Send delay T30 due server sleep
+Send delay T9 due server sleep
+Send delay T15 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:21:26
+Send success T28, Received time: 05/12/2022, 00:21:27.013 Delay time: 0.0
+Send success T9, Received time: 05/12/2022, 00:21:27.523 Delay time: 122.87424
+System go sleep
+Send delay T14 due server sleep
+Send delay T13 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:21:29
+Send success T27, Received time: 05/12/2022, 00:21:30.575 Delay time: 34.12829
+System go sleep
+Send delay T29 due server sleep
+Send delay T23 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:21:32
+Send success T8, Received time: 05/12/2022, 00:21:33.128 Delay time: 76.45738
+Send success T12, Received time: 05/12/2022, 00:21:33.638 Delay time: 155.01571
+System go sleep
+Send delay T3 due server sleep
+Send delay T17 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:21:35
+Send success T27, Received time: 05/12/2022, 00:21:35.674 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:21:38
+Send success T6, Received time: 05/12/2022, 00:21:38.740 Delay time: 0.0
+Send success T7, Received time: 05/12/2022, 00:21:39.248 Delay time: 43.82336
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:21:41
+System go sleep
+Send delay T12 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:21:44
+Send success T22, Received time: 05/12/2022, 00:21:45.367 Delay time: 0.0
+System go sleep
+Send delay T3 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:21:47
+Send success T31, Received time: 05/12/2022, 00:21:47.916 Delay time: 290.17801
+Send success T3, Received time: 05/12/2022, 00:21:48.427 Delay time: 61.66839
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:21:50
+System go sleep
+Send delay T19 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:21:53
+System go sleep
+Send delay T2 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:21:56
+Send success T18, Received time: 05/12/2022, 00:21:57.099 Delay time: 58.10064
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:21:59
+System go sleep
+Send delay T21 due server sleep
+Send delay T29 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:22:02
+System go sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:22:05
+System go sleep
+Send delay T17 due server sleep
+Send delay T20 due server sleep
+Send delay T21 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:22:08
+System go sleep
+Send delay T27 due server sleep
+Send delay T11 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:22:11
+Send success T15, Received time: 05/12/2022, 00:22:11.882 Delay time: 45.88579
+System go sleep
+Send delay T1 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:22:14
+Send success T12, Received time: 05/12/2022, 00:22:14.931 Delay time: 32.1136
+System go sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:22:17
+Send success T30, Received time: 05/12/2022, 00:22:18.487 Delay time: 170.27514
+System go sleep
+Send delay T7 due server sleep
+Send delay T19 due server sleep
+Send delay T9 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:22:20
+Send success T11, Received time: 05/12/2022, 00:22:21.549 Delay time: 65.74034
+System go sleep
+Send delay T11 due server sleep
+Send delay T19 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:22:23
+Send success T15, Received time: 05/12/2022, 00:22:24.097 Delay time: 0.0
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:22:26
+System go sleep
+Send delay T3 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:22:29
+Send success T9, Received time: 05/12/2022, 00:22:30.224 Delay time: 43.83764
+Send success T25, Received time: 05/12/2022, 00:22:30.735 Delay time: 160.57498
+System go sleep
+Send delay T21 due server sleep
+Send delay T16 due server sleep
+Send delay T4 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:22:32
+Send success T14, Received time: 05/12/2022, 00:22:33.288 Delay time: 65.25709
+Send success T5, Received time: 05/12/2022, 00:22:33.799 Delay time: 465.61766
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:22:35
+System go sleep
+System Wake Up 05/12/2022, 00:22:38
+Send success T25, Received time: 05/12/2022, 00:22:38.895 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:22:41
+Send success T23, Received time: 05/12/2022, 00:22:41.951 Delay time: 203.42761
+Send success T0, Received time: 05/12/2022, 00:22:42.460 Delay time: 100.40162
+System go sleep
+Send delay T23 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:22:44
+Send success T30, Received time: 05/12/2022, 00:22:45.011 Delay time: 0.0
+Send success T14, Received time: 05/12/2022, 00:22:45.519 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:22:47
+System go sleep
+Send delay T24 due server sleep
+Send delay T16 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:22:50
+Send success T21, Received time: 05/12/2022, 00:22:51.640 Delay time: 121.31475
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:22:53
+Send success T12, Received time: 05/12/2022, 00:22:54.184 Delay time: 38.23444
+System go sleep
+Send delay T0 due server sleep
+Send delay T10 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:22:56
+Send success T12, Received time: 05/12/2022, 00:22:57.242 Delay time: 0.0
+Send success T17, Received time: 05/12/2022, 00:22:57.750 Delay time: 83.09258
+System go sleep
+Send delay T20 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:22:59
+System go sleep
+Send delay T11 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:23:02
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:23:05
+System go sleep
+Send delay T2 due server sleep
+Send delay T17 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:23:08
+Send success T26, Received time: 05/12/2022, 00:23:09.464 Delay time: 94.29971
+System go sleep
+Send delay T27 due server sleep
+Send delay T29 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:23:11
+Send success T20, Received time: 05/12/2022, 00:23:12.014 Delay time: 64.71702
+System go sleep
+Send delay T5 due server sleep
+Send delay T15 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:23:14
+System go sleep
+Send delay T4 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:23:17
+Send success T6, Received time: 05/12/2022, 00:23:18.640 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:23:21
+Send success T26, Received time: 05/12/2022, 00:23:21.702 Delay time: 0.0
+System go sleep
+Send delay T3 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:23:24
+Send success T24, Received time: 05/12/2022, 00:23:24.253 Delay time: 34.65348
+Send success T7, Received time: 05/12/2022, 00:23:24.765 Delay time: 65.76453
+System go sleep
+Send delay T9 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:23:27
+Send success T29, Received time: 05/12/2022, 00:23:27.315 Delay time: 172.80372
+Send success T2, Received time: 05/12/2022, 00:23:27.824 Delay time: 130.48147
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:23:30
+System go sleep
+Send delay T2 due server sleep
+Send delay T8 due server sleep
+Send delay T29 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:23:33
+System go sleep
+Send delay T18 due server sleep
+Send delay T11 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:23:36
+Send success T30, Received time: 05/12/2022, 00:23:37.009 Delay time: 0.0
+System go sleep
+Send delay T24 due server sleep
+Send delay T27 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:23:39
+Send success T16, Received time: 05/12/2022, 00:23:39.559 Delay time: 269.20208
+Send success T11, Received time: 05/12/2022, 00:23:40.069 Delay time: 78.00995
+System go sleep
+Send delay T16 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:23:42
+Send success T4, Received time: 05/12/2022, 00:23:42.106 Delay time: 121.32763
+Send success T22, Received time: 05/12/2022, 00:23:42.611 Delay time: 68.3014
+System go sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:23:45
+Send success T5, Received time: 05/12/2022, 00:23:45.158 Delay time: 32.1227
+System go sleep
+Send delay T28 due server sleep
+Send delay T13 due server sleep
+Send delay T31 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:23:48
+Send success T21, Received time: 05/12/2022, 00:23:48.216 Delay time: 0.0
+Send success T0, Received time: 05/12/2022, 00:23:48.728 Delay time: 53.01443
+System go sleep
+Send delay T25 due server sleep
+Send delay T10 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:23:51
+System go sleep
+Send delay T15 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:23:54
+System go sleep
+Send delay T22 due server sleep
+Send delay T15 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:23:57
+Send success T10, Received time: 05/12/2022, 00:23:57.381 Delay time: 197.26238
+System go sleep
+Send delay T19 due server sleep
+Send delay T17 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:24:00
+Send success T10, Received time: 05/12/2022, 00:24:00.440 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:24:03
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:24:06
+System go sleep
+Send delay T3 due server sleep
+Send delay T29 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:24:09
+Send success T18, Received time: 05/12/2022, 00:24:09.606 Delay time: 83.06258
+Send success T17, Received time: 05/12/2022, 00:24:10.115 Delay time: 62.17951
+System go sleep
+System Wake Up 05/12/2022, 00:24:12
+Send success T3, Received time: 05/12/2022, 00:24:13.172 Delay time: 104.47749
+System go sleep
+Send delay T2 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:24:15
+Send success T1, Received time: 05/12/2022, 00:24:15.210 Delay time: 162.59348
+System go sleep
+Send delay T18 due server sleep
+Send delay T2 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:24:18
+Send success T31, Received time: 05/12/2022, 00:24:18.778 Delay time: 140.65806
+System go sleep
+Send delay T26 due server sleep
+Send delay T7 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:24:21
+Send success T2, Received time: 05/12/2022, 00:24:21.327 Delay time: 49.93492
+System go sleep
+Send delay T9 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:24:24
+System go sleep
+System Wake Up 05/12/2022, 00:24:27
+Send success T12, Received time: 05/12/2022, 00:24:27.446 Delay time: 0.0
+Send success T23, Received time: 05/12/2022, 00:24:27.954 Delay time: 103.96085
+System go sleep
+Send delay T13 due server sleep
+Send delay T1 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:24:30
+Send success T8, Received time: 05/12/2022, 00:24:30.495 Delay time: 166.65846
+System go sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:24:33
+Send success T4, Received time: 05/12/2022, 00:24:34.056 Delay time: 41.25937
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:24:36
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:24:39
+Send success T15, Received time: 05/12/2022, 00:24:40.173 Delay time: 86.62947
+System go sleep
+Send delay T6 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:24:42
+Send success T4, Received time: 05/12/2022, 00:24:42.724 Delay time: 0.0
+Send success T24, Received time: 05/12/2022, 00:24:43.237 Delay time: 65.71541
+System go sleep
+Send delay T29 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:24:45
+Send success T29, Received time: 05/12/2022, 00:24:45.784 Delay time: 73.37067
+System go sleep
+System Wake Up 05/12/2022, 00:24:48
+Send success T14, Received time: 05/12/2022, 00:24:48.835 Delay time: 75.914
+System go sleep
+Send delay T10 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:24:51
+Send success T19, Received time: 05/12/2022, 00:24:51.388 Delay time: 250.75675
+System go sleep
+Send delay T9 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:24:54
+Send success T20, Received time: 05/12/2022, 00:24:54.449 Delay time: 72.85182
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:24:57
+Send success T25, Received time: 05/12/2022, 00:24:57.504 Delay time: 67.76149
+System go sleep
+Send delay T16 due server sleep
+Send delay T18 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:25:00
+System go sleep
+Send delay T12 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:25:03
+Send success T28, Received time: 05/12/2022, 00:25:03.623 Delay time: 123.83212
+Send success T11, Received time: 05/12/2022, 00:25:04.135 Delay time: 32.63116
+System go sleep
+Send delay T15 due server sleep
+Send delay T24 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:25:06
+System go sleep
+Send delay T14 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:25:09
+Send success T30, Received time: 05/12/2022, 00:25:09.740 Delay time: 39.7516
+System go sleep
+Send delay T2 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:25:12
+Send success T25, Received time: 05/12/2022, 00:25:13.305 Delay time: 0.0
+System go sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:25:15
+Send success T5, Received time: 05/12/2022, 00:25:16.362 Delay time: 53.50475
+System go sleep
+System Wake Up 05/12/2022, 00:25:18
+Send success T22, Received time: 05/12/2022, 00:25:18.919 Delay time: 83.57688
+System go sleep
+Send delay T0 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:25:21
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:25:24
+Send success T4, Received time: 05/12/2022, 00:25:24.516 Delay time: 0.0
+Send success T5, Received time: 05/12/2022, 00:25:25.026 Delay time: 0.0
+System go sleep
+Send delay T19 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:25:27
+System go sleep
+Send delay T6 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:25:30
+System go sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:25:33
+System go sleep
+System Wake Up 05/12/2022, 00:25:36
+Send success T29, Received time: 05/12/2022, 00:25:36.736 Delay time: 41.26611
+Send success T21, Received time: 05/12/2022, 00:25:37.244 Delay time: 52.48034
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:25:39
+Send success T1, Received time: 05/12/2022, 00:25:39.792 Delay time: 70.82031
+System go sleep
+System Wake Up 05/12/2022, 00:25:42
+System go sleep
+Send delay T27 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:25:45
+Send success T14, Received time: 05/12/2022, 00:25:46.417 Delay time: 38.20502
+System go sleep
+Send delay T13 due server sleep
+Send delay T8 due server sleep
+Send delay T9 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:25:48
+Send success T8, Received time: 05/12/2022, 00:25:49.478 Delay time: 74.90976
+System go sleep
+Send delay T13 due server sleep
+Send delay T12 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:25:51
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:25:54
+System go sleep
+System Wake Up 05/12/2022, 00:25:57
+Send success T29, Received time: 05/12/2022, 00:25:58.145 Delay time: 0.0
+System go sleep
+Send delay T30 due server sleep
+Send delay T5 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:26:00
+Send success T23, Received time: 05/12/2022, 00:26:00.683 Delay time: 0.0
+System go sleep
+Send delay T7 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:26:03
+Send success T26, Received time: 05/12/2022, 00:26:03.738 Delay time: 104.44847
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:26:06
+Send success T11, Received time: 05/12/2022, 00:26:07.305 Delay time: 37.18666
+System go sleep
+Send delay T2 due server sleep
+Send delay T12 due server sleep
+Send delay T16 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:26:09
+Send success T20, Received time: 05/12/2022, 00:26:09.852 Delay time: 0.0
+Send success T10, Received time: 05/12/2022, 00:26:10.363 Delay time: 81.01824
+System go sleep
+Send delay T31 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:26:12
+Send success T2, Received time: 05/12/2022, 00:26:12.913 Delay time: 62.1549
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:26:15
+Send success T7, Received time: 05/12/2022, 00:26:16.477 Delay time: 116.16997
+System go sleep
+Send delay T27 due server sleep
+Send delay T11 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:26:18
+Send success T27, Received time: 05/12/2022, 00:26:19.533 Delay time: 249.69151
+System go sleep
+Send delay T27 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:26:21
+Send success T12, Received time: 05/12/2022, 00:26:22.081 Delay time: 79.98662
+Send success T24, Received time: 05/12/2022, 00:26:22.589 Delay time: 77.43365
+System go sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:26:24
+Send success T24, Received time: 05/12/2022, 00:26:24.633 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:26:27
+Send success T19, Received time: 05/12/2022, 00:26:28.201 Delay time: 62.66342
+System go sleep
+Send delay T19 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:26:30
+Send success T8, Received time: 05/12/2022, 00:26:30.748 Delay time: 0.0
+Send success T5, Received time: 05/12/2022, 00:26:31.256 Delay time: 32.0968
+System go sleep
+System Wake Up 05/12/2022, 00:26:33
+System go sleep
+Send delay T9 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:26:36
+Send success T15, Received time: 05/12/2022, 00:26:36.863 Delay time: 92.2168
+Send success T18, Received time: 05/12/2022, 00:26:37.374 Delay time: 141.14876
+System go sleep
+Send delay T14 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:26:39
+Send success T15, Received time: 05/12/2022, 00:26:40.432 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:26:42
+System go sleep
+Send delay T26 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:26:45
+Send success T13, Received time: 05/12/2022, 00:26:46.539 Delay time: 317.99778
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:26:48
+System go sleep
+Send delay T14 due server sleep
+Send delay T29 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:26:51
+Send success T4, Received time: 05/12/2022, 00:26:52.657 Delay time: 0.0
+System go sleep
+Send delay T9 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:26:54
+Send success T31, Received time: 05/12/2022, 00:26:55.201 Delay time: 105.97003
+System go sleep
+Send delay T9 due server sleep
+Send delay T20 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:26:57
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:27:00
+System go sleep
+System Wake Up 05/12/2022, 00:27:03
+Send success T27, Received time: 05/12/2022, 00:27:04.359 Delay time: 44.31618
+System go sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:27:06
+Send success T5, Received time: 05/12/2022, 00:27:06.914 Delay time: 0.0
+Send success T24, Received time: 05/12/2022, 00:27:07.423 Delay time: 0.0
+System go sleep
+Send delay T16 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:27:09
+System go sleep
+Send delay T0 due server sleep
+Send delay T19 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:27:12
+Send success T15, Received time: 05/12/2022, 00:27:13.023 Delay time: 0.0
+Send success T10, Received time: 05/12/2022, 00:27:13.532 Delay time: 0.0
+System go sleep
+Send delay T19 due server sleep
+Send delay T16 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:27:15
+System go sleep
+Send delay T26 due server sleep
+Send delay T17 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:27:18
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:27:21
+Send success T0, Received time: 05/12/2022, 00:27:22.699 Delay time: 200.73416
+System go sleep
+Send delay T6 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:27:24
+Send success T21, Received time: 05/12/2022, 00:27:25.761 Delay time: 60.11126
+System go sleep
+Send delay T6 due server sleep
+Send delay T11 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:27:27
+Send success T19, Received time: 05/12/2022, 00:27:28.298 Delay time: 59.5878
+System go sleep
+Send delay T3 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:27:30
+Send success T6, Received time: 05/12/2022, 00:27:30.848 Delay time: 170.16183
+Send success T4, Received time: 05/12/2022, 00:27:31.359 Delay time: 0.0
+System go sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:27:33
+Send success T16, Received time: 05/12/2022, 00:27:33.906 Delay time: 233.32859
+System go sleep
+Send delay T14 due server sleep
+Send delay T18 due server sleep
+Send delay T26 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:27:36
+Send success T1, Received time: 05/12/2022, 00:27:36.967 Delay time: 91.70374
+Send success T20, Received time: 05/12/2022, 00:27:37.477 Delay time: 40.74444
+System go sleep
+System Wake Up 05/12/2022, 00:27:39
+Send success T8, Received time: 05/12/2022, 00:27:40.024 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:27:42
+Send success T19, Received time: 05/12/2022, 00:27:43.082 Delay time: 0.0
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:27:45
+Send success T16, Received time: 05/12/2022, 00:27:46.140 Delay time: 0.0
+Send success T15, Received time: 05/12/2022, 00:27:46.649 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:27:48
+Send success T1, Received time: 05/12/2022, 00:27:49.197 Delay time: 0.0
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:27:51
+Send success T24, Received time: 05/12/2022, 00:27:52.252 Delay time: 0.0
+Send success T13, Received time: 05/12/2022, 00:27:52.763 Delay time: 52.98211
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:27:54
+Send success T20, Received time: 05/12/2022, 00:27:55.305 Delay time: 0.0
+Send success T6, Received time: 05/12/2022, 00:27:55.816 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:27:57
+Send success T12, Received time: 05/12/2022, 00:27:58.360 Delay time: 49.92242
+Send success T5, Received time: 05/12/2022, 00:27:58.872 Delay time: 0.0
+System go sleep
+Send delay T25 due server sleep
+Send delay T28 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:28:00
+Send success T17, Received time: 05/12/2022, 00:28:01.412 Delay time: 178.80965
+Send success T23, Received time: 05/12/2022, 00:28:01.923 Delay time: 0.0
+System go sleep
+Send delay T12 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:28:03
+System go sleep
+System Wake Up 05/12/2022, 00:28:06
+Send success T28, Received time: 05/12/2022, 00:28:07.518 Delay time: 181.34424
+System go sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:28:09
+System go sleep
+Send delay T29 due server sleep
+Send delay T18 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:28:12
+Send success T28, Received time: 05/12/2022, 00:28:13.631 Delay time: 0.0
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:28:15
+Send success T22, Received time: 05/12/2022, 00:28:16.692 Delay time: 98.29548
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:28:18
+Send success T3, Received time: 05/12/2022, 00:28:19.236 Delay time: 126.83337
+System go sleep
+Send delay T11 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:28:21
+System go sleep
+Send delay T1 due server sleep
+Send delay T25 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:28:24
+System go sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:28:28
+Send success T2, Received time: 05/12/2022, 00:28:28.395 Delay time: 51.9375
+Send success T11, Received time: 05/12/2022, 00:28:28.903 Delay time: 131.41201
+System go sleep
+Send delay T30 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:28:31
+Send success T7, Received time: 05/12/2022, 00:28:31.452 Delay time: 97.77461
+Send success T10, Received time: 05/12/2022, 00:28:31.961 Delay time: 0.0
+System go sleep
+Send delay T16 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:28:34
+Send success T8, Received time: 05/12/2022, 00:28:34.511 Delay time: 0.0
+Send success T24, Received time: 05/12/2022, 00:28:35.019 Delay time: 0.0
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:28:37
+Send success T26, Received time: 05/12/2022, 00:28:37.054 Delay time: 112.5547
+Send success T13, Received time: 05/12/2022, 00:28:37.564 Delay time: 44.29305
+System go sleep
+Send delay T9 due server sleep
+Send delay T20 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:28:40
+Send success T29, Received time: 05/12/2022, 00:28:40.110 Delay time: 108.98319
+Send success T23, Received time: 05/12/2022, 00:28:40.617 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:28:43
+Send success T13, Received time: 05/12/2022, 00:28:43.171 Delay time: 0.0
+System go sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:28:46
+Send success T19, Received time: 05/12/2022, 00:28:46.741 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:28:49
+System go sleep
+Send delay T28 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:28:52
+Send success T5, Received time: 05/12/2022, 00:28:52.857 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:28:55
+System go sleep
+System Wake Up 05/12/2022, 00:28:58
+Send success T30, Received time: 05/12/2022, 00:28:58.972 Delay time: 224.14142
+System go sleep
+System Wake Up 05/12/2022, 00:29:01
+System go sleep
+Send delay T12 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:29:04
+System go sleep
+Send delay T17 due server sleep
+Send delay T27 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:29:07
+System go sleep
+Send success T8, Received time: 05/12/2022, 00:29:08.152 Delay time: 0.0
+Send delay T9 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:29:10
+System go sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:29:13
+System go sleep
+Send delay T20 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:29:16
+Send success T15, Received time: 05/12/2022, 00:29:16.298 Delay time: 36.69777
+System go sleep
+Send delay T23 due server sleep
+Send delay T30 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:29:19
+Send success T15, Received time: 05/12/2022, 00:29:19.861 Delay time: 0.0
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:29:22
+Send success T24, Received time: 05/12/2022, 00:29:22.410 Delay time: 0.0
+System go sleep
+Send delay T2 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:29:25
+Send success T28, Received time: 05/12/2022, 00:29:25.975 Delay time: 35.15668
+System go sleep
+Send delay T29 due server sleep
+Send delay T3 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:29:28
+Send success T4, Received time: 05/12/2022, 00:29:28.519 Delay time: 54.51936
+Send success T21, Received time: 05/12/2022, 00:29:29.026 Delay time: 100.33858
+System go sleep
+Send delay T3 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:29:31
+Send success T5, Received time: 05/12/2022, 00:29:31.573 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:29:34
+Send success T19, Received time: 05/12/2022, 00:29:35.140 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:29:37
+System go sleep
+Send delay T27 due server sleep
+Send delay T29 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:29:40
+System go sleep
+System Wake Up 05/12/2022, 00:29:43
+System go sleep
+Send delay T27 due server sleep
+Send delay T8 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:29:46
+System go sleep
+Send delay T3 due server sleep
+Send delay T28 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:29:49
+Send success T25, Received time: 05/12/2022, 00:29:49.405 Delay time: 235.84756
+System go sleep
+Send delay T23 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:29:52
+Send success T25, Received time: 05/12/2022, 00:29:52.971 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:29:55
+System go sleep
+Send delay T30 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:29:58
+Send success T11, Received time: 05/12/2022, 00:29:59.078 Delay time: 88.13413
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:30:01
+Send success T4, Received time: 05/12/2022, 00:30:01.619 Delay time: 0.0
+System go sleep
+Send delay T7 due server sleep
+Send delay T15 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:30:04
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:30:07
+Send success T0, Received time: 05/12/2022, 00:30:07.733 Delay time: 73.85633
+System go sleep
+Send delay T31 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:30:10
+Send success T26, Received time: 05/12/2022, 00:30:10.793 Delay time: 79.46476
+Send success T0, Received time: 05/12/2022, 00:30:11.303 Delay time: 0.0
+System go sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:30:13
+Send success T22, Received time: 05/12/2022, 00:30:13.852 Delay time: 105.96626
+System go sleep
+Send delay T12 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:30:16
+Send success T6, Received time: 05/12/2022, 00:30:16.907 Delay time: 40.7507
+System go sleep
+Send delay T16 due server sleep
+Send delay T8 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:30:19
+Send success T10, Received time: 05/12/2022, 00:30:19.460 Delay time: 0.0
+System go sleep
+Send delay T16 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:30:22
+Send success T6, Received time: 05/12/2022, 00:30:23.022 Delay time: 0.0
+System go sleep
+Send delay T23 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:30:25
+Send success T21, Received time: 05/12/2022, 00:30:25.564 Delay time: 0.0
+Send success T2, Received time: 05/12/2022, 00:30:26.073 Delay time: 62.13504
+System go sleep
+Send delay T19 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:30:28
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:30:31
+System go sleep
+Send delay T13 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:30:34
+Send success T9, Received time: 05/12/2022, 00:30:34.735 Delay time: 429.4587
+System go sleep
+Send delay T3 due server sleep
+Send delay T16 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:30:37
+System go sleep
+Send delay T3 due server sleep
+Send delay T11 due server sleep
+Send delay T17 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:30:40
+Send success T24, Received time: 05/12/2022, 00:30:40.845 Delay time: 36.67594
+System go sleep
+Send delay T31 due server sleep
+Send delay T8 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:30:43
+Send success T1, Received time: 05/12/2022, 00:30:43.894 Delay time: 140.08111
+System go sleep
+Send delay T29 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:30:46
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:30:49
+Send success T16, Received time: 05/12/2022, 00:30:49.999 Delay time: 137.01457
+System go sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:30:52
+System go sleep
+Send delay T28 due server sleep
+Send delay T4 due server sleep
+Send delay T10 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:30:55
+System go sleep
+Send delay T29 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:30:58
+Send success T17, Received time: 05/12/2022, 00:30:59.162 Delay time: 113.05035
+System go sleep
+System Wake Up 05/12/2022, 00:31:01
+Send success T20, Received time: 05/12/2022, 00:31:02.219 Delay time: 143.12745
+System go sleep
+Send delay T3 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:31:04
+System go sleep
+Send delay T13 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:31:07
+Send success T18, Received time: 05/12/2022, 00:31:07.827 Delay time: 212.38581
+Send success T2, Received time: 05/12/2022, 00:31:08.337 Delay time: 34.11337
+System go sleep
+Send delay T31 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:31:10
+Send success T1, Received time: 05/12/2022, 00:31:10.886 Delay time: 0.0
+Send success T18, Received time: 05/12/2022, 00:31:11.392 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:31:13
+Send success T21, Received time: 05/12/2022, 00:31:13.939 Delay time: 0.0
+System go sleep
+Send delay T19 due server sleep
+Send delay T6 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:31:16
+Send success T8, Received time: 05/12/2022, 00:31:17.507 Delay time: 92.18025
+System go sleep
+Send delay T12 due server sleep
+Send delay T27 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:31:19
+System go sleep
+Send delay T11 due server sleep
+Send delay T31 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:31:22
+Send success T17, Received time: 05/12/2022, 00:31:22.596 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+Send delay T23 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:31:25
+Send success T2, Received time: 05/12/2022, 00:31:25.647 Delay time: 0.0
+Send success T9, Received time: 05/12/2022, 00:31:26.156 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:31:28
+System go sleep
+Send delay T30 due server sleep
+Send delay T20 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:31:31
+Send success T7, Received time: 05/12/2022, 00:31:32.265 Delay time: 145.13574
+System go sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:31:34
+System go sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:31:37
+System go sleep
+Send delay T14 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:31:40
+System go sleep
+Send delay T5 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:31:43
+Send success T0, Received time: 05/12/2022, 00:31:43.968 Delay time: 56.00248
+System go sleep
+Send delay T31 due server sleep
+Send delay T15 due server sleep
+System Wake Up 05/12/2022, 00:31:46
+Send success T5, Received time: 05/12/2022, 00:31:47.025 Delay time: 37.66735
+Send success T26, Received time: 05/12/2022, 00:31:47.534 Delay time: 91.64354
+System go sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:31:49
+System go sleep
+Send delay T25 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:31:52
+Send success T31, Received time: 05/12/2022, 00:31:53.127 Delay time: 274.50373
+System go sleep
+Send delay T3 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:31:55
+System go sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:31:58
+Send success T22, Received time: 05/12/2022, 00:31:58.720 Delay time: 63.62622
+Send success T21, Received time: 05/12/2022, 00:31:59.229 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+Send delay T27 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:32:01
+Send success T30, Received time: 05/12/2022, 00:32:02.283 Delay time: 164.46048
+System go sleep
+Send delay T27 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:32:04
+Send success T7, Received time: 05/12/2022, 00:32:04.819 Delay time: 0.0
+System go sleep
+Send delay T4 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:32:07
+Send success T8, Received time: 05/12/2022, 00:32:07.882 Delay time: 43.76051
+System go sleep
+Send delay T9 due server sleep
+Send delay T26 due server sleep
+System Wake Up 05/12/2022, 00:32:10
+Send success T15, Received time: 05/12/2022, 00:32:10.939 Delay time: 127.27902
+Send success T31, Received time: 05/12/2022, 00:32:11.449 Delay time: 0.0
+System go sleep
+Send delay T27 due server sleep
+Send delay T10 due server sleep
+Send delay T8 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:32:13
+Send success T15, Received time: 05/12/2022, 00:32:13.995 Delay time: 0.0
+Send success T1, Received time: 05/12/2022, 00:32:14.503 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:32:16
+Send success T13, Received time: 05/12/2022, 00:32:17.053 Delay time: 169.0424
+Send success T19, Received time: 05/12/2022, 00:32:17.564 Delay time: 110.46872
+System go sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:32:19
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:32:22
+Send success T3, Received time: 05/12/2022, 00:32:23.674 Delay time: 241.89952
+System go sleep
+Send delay T11 due server sleep
+Send delay T6 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:32:25
+Send success T5, Received time: 05/12/2022, 00:32:26.224 Delay time: 0.0
+Send success T16, Received time: 05/12/2022, 00:32:26.731 Delay time: 73.30052
+System go sleep
+Send delay T28 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:32:28
+Send success T29, Received time: 05/12/2022, 00:32:28.766 Delay time: 219.98963
+Send success T2, Received time: 05/12/2022, 00:32:29.277 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:32:31
+Send success T4, Received time: 05/12/2022, 00:32:31.825 Delay time: 97.74598
+Send success T29, Received time: 05/12/2022, 00:32:32.334 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:32:34
+Send success T10, Received time: 05/12/2022, 00:32:34.882 Delay time: 100.29578
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:32:37
+Send success T4, Received time: 05/12/2022, 00:32:38.445 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:32:40
+System go sleep
+Send delay T7 due server sleep
+Send delay T11 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:32:43
+Send success T25, Received time: 05/12/2022, 00:32:44.043 Delay time: 52.94896
+System go sleep
+Send delay T8 due server sleep
+Send delay T23 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:32:46
+Send success T9, Received time: 05/12/2022, 00:32:47.100 Delay time: 38.19607
+Send success T18, Received time: 05/12/2022, 00:32:47.607 Delay time: 43.28987
+System go sleep
+Send delay T8 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:32:49
+Send success T17, Received time: 05/12/2022, 00:32:50.154 Delay time: 43.29315
+System go sleep
+Send delay T30 due server sleep
+Send delay T24 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:32:52
+Send success T28, Received time: 05/12/2022, 00:32:53.212 Delay time: 184.82531
+System go sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:32:55
+Send success T18, Received time: 05/12/2022, 00:32:56.262 Delay time: 0.0
+System go sleep
+Send delay T22 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:32:58
+Send success T21, Received time: 05/12/2022, 00:32:59.320 Delay time: 0.0
+Send success T16, Received time: 05/12/2022, 00:32:59.828 Delay time: 32.07961
+System go sleep
+System Wake Up 05/12/2022, 00:33:01
+Send success T26, Received time: 05/12/2022, 00:33:01.868 Delay time: 51.94454
+System go sleep
+Send delay T8 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:33:04
+System go sleep
+Send delay T0 due server sleep
+Send delay T29 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:33:07
+Send success T5, Received time: 05/12/2022, 00:33:07.977 Delay time: 0.0
+System go sleep
+Send delay T16 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:33:10
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:33:13
+System go sleep
+Send delay T24 due server sleep
+Send delay T13 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:33:16
+Send success T0, Received time: 05/12/2022, 00:33:17.143 Delay time: 45.82779
+System go sleep
+Send delay T7 due server sleep
+Send delay T0 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:33:19
+Send success T9, Received time: 05/12/2022, 00:33:20.198 Delay time: 0.0
+System go sleep
+Send delay T20 due server sleep
+Send delay T24 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:33:22
+System go sleep
+Send delay T27 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:33:25
+System go sleep
+Send delay T12 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:33:28
+Send success T30, Received time: 05/12/2022, 00:33:29.875 Delay time: 38.19208
+System go sleep
+Send delay T24 due server sleep
+Send delay T26 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:33:31
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:33:34
+System go sleep
+Send delay T19 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:33:37
+Send success T22, Received time: 05/12/2022, 00:33:38.018 Delay time: 72.30342
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:33:40
+Send success T22, Received time: 05/12/2022, 00:33:41.078 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+Send delay T6 due server sleep
+Send delay T29 due server sleep
+Send delay T5 due server sleep
+System Wake Up 05/12/2022, 00:33:43
+System go sleep
+System Wake Up 05/12/2022, 00:33:46
+Send success T12, Received time: 05/12/2022, 00:33:47.183 Delay time: 344.2439
+Send success T11, Received time: 05/12/2022, 00:33:47.690 Delay time: 188.36875
+System go sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:33:49
+Send success T7, Received time: 05/12/2022, 00:33:50.233 Delay time: 67.71022
+System go sleep
+Send delay T20 due server sleep
+Send delay T17 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:33:52
+Send success T12, Received time: 05/12/2022, 00:33:53.286 Delay time: 0.0
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:33:56
+System go sleep
+Send delay T16 due server sleep
+Send delay T23 due server sleep
+Send delay T6 due server sleep
+System Wake Up 05/12/2022, 00:33:59
+System go sleep
+Send delay T8 due server sleep
+Send delay T4 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:34:02
+Send success T8, Received time: 05/12/2022, 00:34:02.973 Delay time: 109.99821
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:34:05
+Send success T9, Received time: 05/12/2022, 00:34:05.511 Delay time: 0.0
+Send success T20, Received time: 05/12/2022, 00:34:06.017 Delay time: 155.7854
+System go sleep
+Send delay T27 due server sleep
+Send delay T16 due server sleep
+System Wake Up 05/12/2022, 00:34:08
+Send success T13, Received time: 05/12/2022, 00:34:08.053 Delay time: 51.92979
+Send success T24, Received time: 05/12/2022, 00:34:08.564 Delay time: 169.52865
+System go sleep
+Send delay T20 due server sleep
+Send delay T14 due server sleep
+Send delay T24 due server sleep
+System Wake Up 05/12/2022, 00:34:11
+System go sleep
+Send delay T27 due server sleep
+Send delay T0 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:34:14
+Send success T13, Received time: 05/12/2022, 00:34:14.170 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:34:17
+System go sleep
+Send delay T5 due server sleep
+Send delay T28 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:34:20
+Send success T18, Received time: 05/12/2022, 00:34:20.791 Delay time: 49.38772
+System go sleep
+Send delay T5 due server sleep
+Send delay T1 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:34:23
+Send success T3, Received time: 05/12/2022, 00:34:23.333 Delay time: 75.86434
+System go sleep
+Send delay T4 due server sleep
+Send delay T12 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:34:26
+Send success T1, Received time: 05/12/2022, 00:34:26.389 Delay time: 96.74554
+Send success T16, Received time: 05/12/2022, 00:34:26.901 Delay time: 77.90493
+System go sleep
+Send delay T28 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:34:29
+Send success T6, Received time: 05/12/2022, 00:34:29.452 Delay time: 193.4785
+Send success T23, Received time: 05/12/2022, 00:34:29.962 Delay time: 312.64836
+System go sleep
+Send delay T15 due server sleep
+Send delay T8 due server sleep
+Send delay T1 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:34:32
+Send success T29, Received time: 05/12/2022, 00:34:32.508 Delay time: 85.5485
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:34:35
+System go sleep
+Send delay T31 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:34:38
+Send success T16, Received time: 05/12/2022, 00:34:38.620 Delay time: 0.0
+Send success T17, Received time: 05/12/2022, 00:34:39.133 Delay time: 104.90547
+System go sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:34:41
+Send success T22, Received time: 05/12/2022, 00:34:41.681 Delay time: 0.0
+System go sleep
+Send delay T0 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:34:44
+Send success T27, Received time: 05/12/2022, 00:34:44.736 Delay time: 432.86868
+System go sleep
+Send delay T6 due server sleep
+Send delay T20 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:34:47
+System go sleep
+Send delay T20 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:34:50
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:34:53
+System go sleep
+Send delay T4 due server sleep
+Send delay T14 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:34:56
+Send success T13, Received time: 05/12/2022, 00:34:56.958 Delay time: 0.0
+System go sleep
+Send delay T28 due server sleep
+Send delay T20 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:34:59
+System go sleep
+Send delay T24 due server sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:35:02
+Send success T15, Received time: 05/12/2022, 00:35:03.062 Delay time: 32.59038
+System go sleep
+Send delay T29 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:35:05
+Send success T18, Received time: 05/12/2022, 00:35:05.606 Delay time: 0.0
+System go sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:35:08
+Send success T28, Received time: 05/12/2022, 00:35:08.661 Delay time: 124.24948
+System go sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:35:11
+Send success T2, Received time: 05/12/2022, 00:35:12.227 Delay time: 77.41306
+System go sleep
+Send delay T4 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:35:14
+Send success T1, Received time: 05/12/2022, 00:35:14.767 Delay time: 43.27866
+System go sleep
+Send delay T2 due server sleep
+System Wake Up 05/12/2022, 00:35:17
+Send success T28, Received time: 05/12/2022, 00:35:17.311 Delay time: 0.0
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:35:20
+Send success T20, Received time: 05/12/2022, 00:35:20.876 Delay time: 71.8026
+System go sleep
+Send delay T27 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:35:23
+System go sleep
+Send delay T26 due server sleep
+Send delay T10 due server sleep
+System Wake Up 05/12/2022, 00:35:26
+Send success T16, Received time: 05/12/2022, 00:35:26.475 Delay time: 0.0
+Send success T3, Received time: 05/12/2022, 00:35:26.983 Delay time: 0.0
+System go sleep
+Send delay T4 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:35:29
+Send success T13, Received time: 05/12/2022, 00:35:29.530 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:35:32
+Send success T9, Received time: 05/12/2022, 00:35:32.577 Delay time: 46.31251
+Send success T20, Received time: 05/12/2022, 00:35:33.085 Delay time: 0.0
+System go sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:35:35
+System go sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:35:38
+Send success T9, Received time: 05/12/2022, 00:35:38.686 Delay time: 0.0
+Send success T31, Received time: 05/12/2022, 00:35:39.197 Delay time: 118.63221
+System go sleep
+Send delay T11 due server sleep
+Send delay T8 due server sleep
+Send delay T0 due server sleep
+System Wake Up 05/12/2022, 00:35:41
+System go sleep
+Send delay T15 due server sleep
+Send delay T4 due server sleep
+Send delay T5 due server sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:35:44
+Send success T26, Received time: 05/12/2022, 00:35:44.796 Delay time: 133.90094
+System go sleep
+Send delay T18 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:35:47
+System go sleep
+System Wake Up 05/12/2022, 00:35:50
+Send success T29, Received time: 05/12/2022, 00:35:50.391 Delay time: 46.31123
+System go sleep
+Send delay T28 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:35:53
+Send success T17, Received time: 05/12/2022, 00:35:53.958 Delay time: 0.0
+System go sleep
+Send delay T12 due server sleep
+Send delay T30 due server sleep
+Send delay T12 due server sleep
+System Wake Up 05/12/2022, 00:35:56
+System go sleep
+System Wake Up 05/12/2022, 00:35:59
+Send success T5, Received time: 05/12/2022, 00:35:59.563 Delay time: 135.94516
+System go sleep
+Send delay T0 due server sleep
+Send delay T3 due server sleep
+Send delay T30 due server sleep
+System Wake Up 05/12/2022, 00:36:02
+System go sleep
+Send delay T31 due server sleep
+Send delay T24 due server sleep
+Send delay T7 due server sleep
+System Wake Up 05/12/2022, 00:36:05
+System go sleep
+Send delay T21 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:36:08
+Send success T8, Received time: 05/12/2022, 00:36:08.743 Delay time: 97.76449
+Send success T10, Received time: 05/12/2022, 00:36:09.254 Delay time: 166.50913
+System go sleep
+System Wake Up 05/12/2022, 00:36:11
+Send success T9, Received time: 05/12/2022, 00:36:11.802 Delay time: 0.0
+System go sleep
+Send delay T10 due server sleep
+Send delay T30 due server sleep
+Send delay T1 due server sleep
+System Wake Up 05/12/2022, 00:36:14
+System go sleep
+Send delay T5 due server sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:36:17
+System go sleep
+Send delay T16 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:36:20
+Send success T30, Received time: 05/12/2022, 00:36:20.967 Delay time: 148.18889
+System go sleep
+Send delay T23 due server sleep
+Send delay T18 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:36:23
+Send success T20, Received time: 05/12/2022, 00:36:23.515 Delay time: 0.0
+System go sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:36:26
+System go sleep
+Send delay T11 due server sleep
+Send delay T0 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:36:29
+Send success T27, Received time: 05/12/2022, 00:36:30.137 Delay time: 67.73664
+System go sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:36:32
+System go sleep
+Send delay T13 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:36:35
+Send success T22, Received time: 05/12/2022, 00:36:35.732 Delay time: 72.82204
+Send success T31, Received time: 05/12/2022, 00:36:36.239 Delay time: 32.08863
+System go sleep
+System Wake Up 05/12/2022, 00:36:38
+Send success T2, Received time: 05/12/2022, 00:36:38.787 Delay time: 83.51229
+Send success T22, Received time: 05/12/2022, 00:36:39.301 Delay time: 0.0
+System go sleep
+Send delay T24 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:36:41
+Send success T26, Received time: 05/12/2022, 00:36:41.844 Delay time: 0.0
+System go sleep
+Send delay T4 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:36:44
+Send success T3, Received time: 05/12/2022, 00:36:45.401 Delay time: 44.31166
+System go sleep
+Send delay T30 due server sleep
+Send delay T11 due server sleep
+System Wake Up 05/12/2022, 00:36:47
+Send success T6, Received time: 05/12/2022, 00:36:48.463 Delay time: 123.21735
+System go sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:36:50
+Send success T1, Received time: 05/12/2022, 00:36:51.010 Delay time: 76.39993
+Send success T7, Received time: 05/12/2022, 00:36:51.519 Delay time: 151.74806
+System go sleep
+Send delay T1 due server sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:36:53
+Send success T12, Received time: 05/12/2022, 00:36:54.068 Delay time: 148.69766
+System go sleep
+Send delay T19 due server sleep
+System Wake Up 05/12/2022, 00:36:56
+Send success T7, Received time: 05/12/2022, 00:36:57.131 Delay time: 0.0
+System go sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:36:59
+Send success T14, Received time: 05/12/2022, 00:36:59.673 Delay time: 656.95382
+Send success T25, Received time: 05/12/2022, 00:37:00.184 Delay time: 205.73117
+System go sleep
+Send delay T11 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:37:02
+Send success T27, Received time: 05/12/2022, 00:37:03.239 Delay time: 32.59535
+System go sleep
+Send delay T14 due server sleep
+Send delay T29 due server sleep
+System Wake Up 05/12/2022, 00:37:05
+Send success T23, Received time: 05/12/2022, 00:37:05.783 Delay time: 132.9005
+Send success T23, Received time: 05/12/2022, 00:37:06.293 Delay time: 0.0
+System go sleep
+Send delay T17 due server sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:37:08
+Send success T21, Received time: 05/12/2022, 00:37:08.840 Delay time: 183.83483
+Send success T24, Received time: 05/12/2022, 00:37:09.349 Delay time: 179.25254
+System go sleep
+Send delay T10 due server sleep
+Send delay T8 due server sleep
+System Wake Up 05/12/2022, 00:37:11
+Send success T13, Received time: 05/12/2022, 00:37:11.887 Delay time: 38.18945
+Send success T6, Received time: 05/12/2022, 00:37:12.397 Delay time: 0.0
+System go sleep
+System Wake Up 05/12/2022, 00:37:14
+Send success T26, Received time: 05/12/2022, 00:37:15.457 Delay time: 0.0
+System go sleep
+Send delay T10 due server sleep
+Send delay T27 due server sleep
+System Wake Up 05/12/2022, 00:37:17
+Send success T16, Received time: 05/12/2022, 00:37:18.518 Delay time: 59.58691
+System go sleep
+Send delay T21 due server sleep
+System Wake Up 05/12/2022, 00:37:20
+Send success T18, Received time: 05/12/2022, 00:37:21.065 Delay time: 95.25519
+Send success T30, Received time: 05/12/2022, 00:37:21.574 Delay time: 35.66107
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:37:23
+Send success T10, Received time: 05/12/2022, 00:37:24.116 Delay time: 71.29471
+Send success T1, Received time: 05/12/2022, 00:37:24.626 Delay time: 32.59697
+System go sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:37:26
+System go sleep
+Send delay T10 due server sleep
+Send delay T25 due server sleep
+System Wake Up 05/12/2022, 00:37:29
+Send success T19, Received time: 05/12/2022, 00:37:30.224 Delay time: 234.24293
+System go sleep
+Send delay T29 due server sleep
+Send delay T20 due server sleep
+System Wake Up 05/12/2022, 00:37:32
+System go sleep
+Send delay T11 due server sleep
+Send delay T3 due server sleep
+System Wake Up 05/12/2022, 00:37:35
+System go sleep
+Send delay T30 due server sleep
+Send delay T13 due server sleep
+System Wake Up 05/12/2022, 00:37:38
+System go sleep
+Send delay T23 due server sleep
+System Wake Up 05/12/2022, 00:37:41
+Send success T2, Received time: 05/12/2022, 00:37:41.946 Delay time: 0.0
+Send success T14, Received time: 05/12/2022, 00:37:42.455 Delay time: 38.70996
+System go sleep
+Send delay T12 due server sleep
+Send delay T18 due server sleep
+System Wake Up 05/12/2022, 00:37:44
+System go sleep
+Send delay T0 due server sleep
+Send delay T28 due server sleep
+System Wake Up 05/12/2022, 00:37:47
+Send success T19, Received time: 05/12/2022, 00:37:48.572 Delay time: 0.0
+System go sleep
+Send delay T7 due server sleep
+Send delay T14 due server sleep
+System Wake Up 05/12/2022, 00:37:50
+System go sleep
+System Wake Up 05/12/2022, 00:37:53
+System go sleep
+System Wake Up 05/12/2022, 00:37:56
+Send success T29, Received time: 05/12/2022, 00:37:57.739 Delay time: 95.24434
+System go sleep
+System Wake Up 05/12/2022, 00:37:59
+System go sleep
+Send delay T1 due server sleep
+Send delay T0 due server sleep
+Send delay T22 due server sleep
+System Wake Up 05/12/2022, 00:38:02
+Send success T4, Received time: 05/12/2022, 00:38:02.831 Delay time: 286.19776
+System go sleep
+Send delay T27 due server sleep
+Send delay T29 due server sleep
+Send delay T4 due server sleep
+System Wake Up 05/12/2022, 00:38:05
+System go sleep
+Send delay T6 due server sleep
+Send delay T24 due server sleep
+Send delay T31 due server sleep
+System Wake Up 05/12/2022, 00:38:08
+System go sleep
+Send delay T11 due server sleep
+Send delay T17 due server sleep
+System Wake Up 05/12/2022, 00:38:11
+Send success T25, Received time: 05/12/2022, 00:38:12.014 Delay time: 43.31447
+Send success T21, Received time: 05/12/2022, 00:38:12.522 Delay time: 53.49517
+System go sleep
+Send delay T9 due server sleep
+System Wake Up 05/12/2022, 00:38:14
+System go sleep
+Send delay T28 due server sleep
+Send delay T11 due server sleep
+==================================================
+Sensor name: T0
+Total send data: 72
+Sensor success rate: 31.94%
+AVG delay time: 106.2537
+Top 5 worst delay time: 287.852463, 200.734158, 180.013407, 142.122231, 106.537232
+==================================================
+Sensor name: T1
+Total send data: 82
+Sensor success rate: 35.37%
+AVG delay time: 108.54294
+Top 5 worst delay time: 266.902495, 206.16006, 162.593477, 154.893963, 140.081113
+==================================================
+Sensor name: T2
+Total send data: 83
+Sensor success rate: 39.76%
+AVG delay time: 74.54715
+Top 5 worst delay time: 150.87755, 130.481472, 130.456073, 120.138921, 119.026135
+==================================================
+Sensor name: T3
+Total send data: 88
+Sensor success rate: 23.86%
+AVG delay time: 100.96474
+Top 5 worst delay time: 288.360376, 241.899523, 166.794417, 161.622238, 126.833369
+==================================================
+Sensor name: T4
+Total send data: 86
+Sensor success rate: 32.56%
+AVG delay time: 110.06448
+Top 5 worst delay time: 286.197759, 260.168347, 209.150345, 188.594765, 121.327626
+==================================================
+Sensor name: T5
+Total send data: 78
+Sensor success rate: 41.03%
+AVG delay time: 101.22817
+Top 5 worst delay time: 465.617659, 217.214411, 135.945164, 131.431057, 82.838256
+==================================================
+Sensor name: T6
+Total send data: 73
+Sensor success rate: 34.25%
+AVG delay time: 119.20154
+Top 5 worst delay time: 265.904196, 193.478499, 170.161829, 164.229472, 138.516447
+==================================================
+Sensor name: T7
+Total send data: 81
+Sensor success rate: 38.27%
+AVG delay time: 110.1381
+Top 5 worst delay time: 251.018168, 155.425178, 151.748059, 151.135283, 145.229491
+==================================================
+Sensor name: T8
+Total send data: 87
+Sensor success rate: 32.18%
+AVG delay time: 102.04015
+Top 5 worst delay time: 260.793225, 166.658464, 148.266826, 142.815739, 131.042273
+==================================================
+Sensor name: T9
+Total send data: 83
+Sensor success rate: 30.12%
+AVG delay time: 125.64385
+Top 5 worst delay time: 446.767506, 429.458702, 169.704414, 163.242417, 162.712351
+==================================================
+Sensor name: T10
+Total send data: 86
+Sensor success rate: 31.4%
+AVG delay time: 94.20733
+Top 5 worst delay time: 197.262378, 166.509134, 154.849016, 150.408673, 142.680037
+==================================================
+Sensor name: T11
+Total send data: 100
+Sensor success rate: 25.0%
+AVG delay time: 94.88933
+Top 5 worst delay time: 188.368751, 166.043428, 160.537898, 146.681033, 131.945093
+==================================================
+Sensor name: T12
+Total send data: 80
+Sensor success rate: 32.5%
+AVG delay time: 130.29
+Top 5 worst delay time: 392.692016, 344.243904, 236.202346, 155.015706, 148.697657
+==================================================
+Sensor name: T13
+Total send data: 89
+Sensor success rate: 31.46%
+AVG delay time: 107.69764
+Top 5 worst delay time: 317.997777, 175.944386, 169.73596, 169.042401, 143.663136
+==================================================
+Sensor name: T14
+Total send data: 70
+Sensor success rate: 34.29%
+AVG delay time: 138.07157
+Top 5 worst delay time: 656.953821, 245.867392, 182.54867, 170.382955, 107.780748
+==================================================
+Sensor name: T15
+Total send data: 87
+Sensor success rate: 36.78%
+AVG delay time: 86.2373
+Top 5 worst delay time: 140.27149, 132.90783, 127.87914, 127.279023, 115.210463
+==================================================
+Sensor name: T16
+Total send data: 77
+Sensor success rate: 29.87%
+AVG delay time: 119.98489
+Top 5 worst delay time: 269.202076, 233.328588, 206.618267, 173.288102, 137.014574
+==================================================
+Sensor name: T17
+Total send data: 83
+Sensor success rate: 33.73%
+AVG delay time: 93.88283
+Top 5 worst delay time: 308.307573, 272.480595, 178.809654, 113.050355, 104.905469
+==================================================
+Sensor name: T18
+Total send data: 94
+Sensor success rate: 29.79%
+AVG delay time: 111.76787
+Top 5 worst delay time: 269.855101, 217.668682, 212.385813, 205.057953, 178.99056
+==================================================
+Sensor name: T19
+Total send data: 83
+Sensor success rate: 33.73%
+AVG delay time: 111.38814
+Top 5 worst delay time: 250.756751, 234.242933, 170.337108, 163.724732, 142.106529
+==================================================
+Sensor name: T20
+Total send data: 82
+Sensor success rate: 35.37%
+AVG delay time: 93.59136
+Top 5 worst delay time: 331.739039, 284.852601, 155.785405, 143.127455, 94.999699
+==================================================
+Sensor name: T21
+Total send data: 83
+Sensor success rate: 32.53%
+AVG delay time: 105.19158
+Top 5 worst delay time: 277.516078, 210.155243, 205.466097, 183.834831, 127.807721
+==================================================
+Sensor name: T22
+Total send data: 92
+Sensor success rate: 32.61%
+AVG delay time: 87.05436
+Top 5 worst delay time: 199.536484, 173.793793, 152.898713, 113.454074, 105.966255
+==================================================
+Sensor name: T23
+Total send data: 78
+Sensor success rate: 35.9%
+AVG delay time: 94.54135
+Top 5 worst delay time: 312.648356, 234.025313, 203.427613, 132.900499, 115.837436
+==================================================
+Sensor name: T24
+Total send data: 85
+Sensor success rate: 35.29%
+AVG delay time: 92.84066
+Top 5 worst delay time: 287.654262, 179.252537, 169.528647, 156.961115, 145.161468
+==================================================
+Sensor name: T25
+Total send data: 75
+Sensor success rate: 42.67%
+AVG delay time: 93.98727
+Top 5 worst delay time: 235.847558, 205.73117, 179.473825, 160.574977, 103.220963
+==================================================
+Sensor name: T26
+Total send data: 66
+Sensor success rate: 43.94%
+AVG delay time: 108.5069
+Top 5 worst delay time: 248.980167, 205.089579, 155.08375, 149.238009, 133.900935
+==================================================
+Sensor name: T27
+Total send data: 97
+Sensor success rate: 30.93%
+AVG delay time: 90.98278
+Top 5 worst delay time: 432.868684, 249.69151, 155.862236, 119.917645, 104.814122
+==================================================
+Sensor name: T28
+Total send data: 86
+Sensor success rate: 30.23%
+AVG delay time: 116.66984
+Top 5 worst delay time: 519.49264, 184.825312, 182.616087, 181.344242, 124.249482
+==================================================
+Sensor name: T29
+Total send data: 93
+Sensor success rate: 34.41%
+AVG delay time: 92.18771
+Top 5 worst delay time: 219.989633, 172.803717, 160.815392, 146.205309, 121.400836
+==================================================
+Sensor name: T30
+Total send data: 89
+Sensor success rate: 28.09%
+AVG delay time: 116.24824
+Top 5 worst delay time: 326.568886, 224.141418, 208.460306, 193.74201, 170.275144
+==================================================
+Sensor name: T31
+Total send data: 78
+Sensor success rate: 32.05%
+AVG delay time: 126.49229
+Top 5 worst delay time: 290.178012, 274.503733, 154.43519, 141.403206, 140.658062
+========================= FINISH ==========================
